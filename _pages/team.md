@@ -104,7 +104,7 @@ permalink: /team/
 Enze Zhang, PhD student 2016-20, now Research Assistant at CUHK <br />
 Lingcao Huang, PhD student 2016-19, now Postdoc at University of Colorado Boulder <br />
 Jie Chen, PhD student 2015-19, now Postdoc at Chinese Academy of Sciences <br />
-Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore <br />
+Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore, now Halliburton Singapore <br />
 
 **Postdocs**<br />
 Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />
