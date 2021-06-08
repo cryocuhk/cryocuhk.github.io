@@ -1,3 +1,21 @@
+- title: "Comparison of surface subsidence measured by airborne and satellite InSAR over permafrost areas near Yellowknife Canada"
+  image: dummy.png 
+  description: ""
+  authors: Xingyu Xu, Lin Liu, Kevin Schaefer, Roger Michaelides
+  link:
+    url:  https://doi.org/10.1029/2020EA001631
+    display: "Earth and Space Science (2021)"
+  highlight: 0
+
+- title: "Three-in-one: GPS-IR measurements of ground surface elevation changes, soil moisture, and snow depth at a permafrost site in the northeastern Qinghai-Tibet Plateau"
+  image: dummy.png 
+  description: ""
+  authors: Jiahua Zhang, Lin Liu, Lei Su, Tao Che 
+  link:
+    url: https://tc.copernicus.org/preprints/tc-2020-236/
+    display: "The Cryosphere (2021)" 
+  highlight: 0
+
 - title: "Physics-based evaluation of the maximum magnitude of potential earthquakes induced by the Hutubi (China) underground gas storage"
   image: dummy.png 
   description: ""
@@ -85,15 +103,6 @@
   link:
     url: https://www.nature.com/articles/s41467-020-19580-5 
     display: Nature Communications (2020)
-  highlight: 0
-
-- title: "Three-in-one: GPS-IR measurements of ground surface elevation changes, soil moisture, and snow depth at a permafrost site in the northeastern Qinghai-Tibet Plateau"
-  image: dummy.png 
-  description: ""
-  authors: Jiahua Zhang, Lin Liu, Lei Su, Tao Che 
-  link:
-    url: https://tc.copernicus.org/preprints/tc-2020-236/
-    display: The Cryosphere Discussions (open review)
   highlight: 0
 
 - title: "Improving the estimate of the secular variation of Greenland ice mass in the recent decades by incorporating a stochastic process"
