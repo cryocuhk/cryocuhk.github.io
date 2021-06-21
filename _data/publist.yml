@@ -7,6 +7,15 @@
     display: "Earth and Space Science (2021)"
   highlight: 0
 
+- title: "Permafrost Dynamics Observatory (PDO) – Part I: Postprocessing and Calibration Methods of UAVSAR L-band InSAR Data for Seasonal Subsidence Estimation"
+  image: dummy.png 
+  description: ""
+  authors: Roger Michaelides, Richard Chen, Yuhuan Zhao, Kevin Schaefer, Andrew Parsekian, Taylor Sullivan, Mahta Moghaddam, Howard Zebker, Lin Liu, Xingyu Xu, Jingyi Chen
+  link:
+    url:  https://doi.org/10.1029/2020EA001630
+    display: "Earth and Space Science (2021)"
+  highlight: 0
+
 - title: "Three-in-one: GPS-IR measurements of ground surface elevation changes, soil moisture, and snow depth at a permafrost site in the northeastern Qinghai-Tibet Plateau"
   image: dummy.png 
   description: ""
