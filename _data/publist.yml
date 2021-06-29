@@ -6,10 +6,9 @@
     url: https://doi.org/10.1016/j.jag.2021.102399
     display: "International Journal of Applied Earth Observation and Geoinformation (2021)"
   inccode: 1
-    code:
+  code:
     url: https://github.com/yghlc/ChangeDet_DL
     display: Code "ChangeDet_DL" (Written and maintained by Lingcao Huang)
-  highlight: 0
 
 - title: "Analysis and mitigation of biases in Greenland ice sheet mass balance trend estimates from GRACE mascon products"
   image: dummy.png 
