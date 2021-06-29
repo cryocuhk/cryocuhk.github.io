@@ -1,3 +1,25 @@
+- title: "Automatically quantifying evolution of retrogressive thaw slumps in Beiluhe (Tibetan Plateau) from multi-temporal CubeSat images"
+  image: dummy.png 
+  description: ""
+  authors: Lingcao Huang, Lin Liu, Jing Luo, Zhanju Lin, Fujun Niu
+  link:
+    url: https://doi.org/10.1016/j.jag.2021.102399
+    display: "International Journal of Applied Earth Observation and Geoinformation (2021)"
+  inccode: 1
+    code:
+    url: https://github.com/yghlc/ChangeDet_DL
+    display: Code "ChangeDet_DL" (Written and maintained by Lingcao Huang)
+  highlight: 0
+
+- title: "Analysis and mitigation of biases in Greenland ice sheet mass balance trend estimates from GRACE mascon products"
+  image: dummy.png 
+  description: ""
+  authors: Jiangjun Ran, Pavel Ditmar, Lin Liu, Yun Xiao, Roland Klees, Xueyuan Tang
+  link:
+    url: 
+    display: "Journal of Geophysical Research: Solid Earth (2021)"
+  highlight: 0
+
 - title: "Comparison of surface subsidence measured by airborne and satellite InSAR over permafrost areas near Yellowknife Canada"
   image: dummy.png 
   description: ""
