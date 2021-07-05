@@ -37,13 +37,15 @@
     display: "Earth and Space Science (2021)"
   highlight: 0
 
-- title: "Three-in-one: GPS-IR measurements of ground surface elevation changes, soil moisture, and snow depth at a permafrost site in the northeastern Qinghai-Tibet Plateau"
+- title: "Three in one: GPS-IR measurements of ground surface elevation changes, soil moisture, and snow depth at a permafrost site in the northeastern Qinghai-Tibet Plateau"
   image: dummy.png 
   description: ""
   authors: Jiahua Zhang, Lin Liu, Lei Su, Tao Che 
   link:
-    url: https://tc.copernicus.org/preprints/tc-2020-236/
+    url: https://doi.org/10.5194/tc-15-3021-2021
     display: "The Cryosphere (2021)" 
+  incdata: 1
+  dataurl: https://doi.org/10.5281/zenodo.4895864
   highlight: 0
 
 - title: "Physics-based evaluation of the maximum magnitude of potential earthquakes induced by the Hutubi (China) underground gas storage"
