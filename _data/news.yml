@@ -1,3 +1,9 @@
+- date: July 14 2021
+  headline: "Yan defended her PhD dissertation with flying colors! Congratulations to Dr. Hu!"
+
+- date: July 14 2021
+  headline: "Yan's paper on modeling rock glacier ice content with constraints from surface velocities has been published as a discussion paper in <<a href='https://tc.copernicus.org/preprints/tc-2021-110/'> The Cryosphere</a>."
+
 - date: July 6 2021
   headline: "Welcome to all EASC summer workshop attendees!"
 
@@ -5,10 +11,10 @@
   headline: "Seven papers published between April and June, covering permafrost and Greenland ice sheet, using various methods and data. Check them out on <a href='https://cryocuhk.github.io/publications'> our publication page</a>."
 
 - date: March 10 2021
-  headline: "Manuscript on advance and runout hazard assessment of a valley glacier in Kunlun Mountains published as a discussion paper in <a href='https://nhess.copernicus.org/preprints/nhess-2021-57'> Natural Hazards and Earth System Sciences</a>." 
+  headline: "Manuscript on advance and runout hazard assessment of a valley glacier in the Kunlun Mountains published as a discussion paper in <a href='https://nhess.copernicus.org/preprints/nhess-2021-57'> Natural Hazards and Earth System Sciences</a>." 
 
 - date: February 10 2021
-  headline: "<a href='https://authors.elsevier.com/c/1cYwW,Ig4NUPk'> New paper</a> published in Earth and Planetary Science Letters revealed link between Antarctic ice mass changes with ENSO."
+  headline: "<a href='https://authors.elsevier.com/c/1cYwW,Ig4NUPk'> New paper</a> published in Earth and Planetary Science Letters revealed links between Antarctic ice mass changes with ENSO."
 
 - date: December 27 2020
   headline: "Enze's paper on a generalized deep learning network for delineating glacial fronts from multi-sensor imagery is published in <a href='https://doi.org/10.1016/j.rse.2020.112265' > Remote Sensing of Environment</a>!"
@@ -44,8 +50,8 @@
 - date: June 12 2020
   headline: "Jiahua's paper on ground elevation changes in Canadian permafrost areas as observed by GPS Interferometric Reflectometry is published in <a href='https://www.the-cryosphere.net/14/1875/2020/' >  The Cryosphere</a>."
 
-- date: June 1 2020 
-  headline: "Billy Tsang joined our research group as a research assistant and wil officially start his MPhil with us in August. Welcome aboard, Billy!"
+  #- date: June 1 2020 
+  #  headline: "Billy Tsang joined our research group as a research assistant and will officially start his MPhil with us in August. Welcome aboard, Billy!"
 
 - date: May 27 2020 
   headline: "Hope everyone is healthy and safe during the COVID-19 pandemic. Our website is now recovering from a long hiatus."
@@ -78,7 +84,7 @@
   headline: "Summer visiting students Yidan, Haoran, and Linyang joined our group. Welcome!" 
 
 - date: June 28 2019
-  headline: "Enze's <a href='https://doi.org/10.5194/tc-13-1729-2019' > paper </a> on the use of deep learning to automatically delinate glacial calving fronts is published in The Cryosphere."
+  headline: "Enze's <a href='https://doi.org/10.5194/tc-13-1729-2019' > paper </a> on the use of deep learning to automatically delineate glacial calving fronts is published in The Cryosphere."
 
 - date: June 28 2019
   headline: "Yan won Best Poster Award (again) at the 2019 Dragon 4 Symposium held in Ljubljana, Slovenia. Congratulations!"
@@ -87,10 +93,10 @@
   headline: "Summer Student Workshop is open for application. Potential PhD applicants are welcome to apply through <a href='http://www.cuhk.edu.hk/sci/essc/sw2019.html' > this web page </a>. Application deadline is May 5 2019."
 
 - date: March 30 2019
-  headline: "Our <a href='https://doi.org/10.1016/j.epsl.2019.03.028' > new paper </a> published in Earth and Planetary Science Letters! We documented short-term mass changes of the Greenland Ice Sheet and investigate their possible links to atmospheric circulation anomalies."
+  headline: "Our <a href='https://doi.org/10.1016/j.epsl.2019.03.028' > new paper </a> published in Earth and Planetary Science Letters! We documented short-term mass changes of the Greenland Ice Sheet and investigated their possible links to atmospheric circulation anomalies."
 
   #- date: February 7 2019
-  #headline: "Enze's manuscript on the use of deep learning to automatically delinate glacial calving fronts is posted as a discussion paper in <a href='https://www.the-cryosphere-discuss.net/tc-2019-14/' > The Cryosphere Discussion </a>."
+  #headline: "Enze's manuscript on the use of deep learning to automatically delineate glacial calving fronts is posted as a discussion paper in <a href='https://www.the-cryosphere-discuss.net/tc-2019-14/' > The Cryosphere Discussion </a>."
 
 - date: January 31 2019
   headline: "Yan passed PhD qualifying exam. Congratulations!"
@@ -135,4 +141,4 @@
   headline: "Yan won Best Poster Award at the Dragon 4 Mid-Term Results Symposium, Xi'An. Congratulations!"
 
 - date: June 12 2018
-  headline: "<a href='https://doi.org/10.1029/2018GL077960'> New paper</a> published in GRL! We obsereved seasonal elevation changes in a permafrost area using GPS-IR and developed a very simple model to explain them."
+  headline: "<a href='https://doi.org/10.1029/2018GL077960'> New paper</a> published in GRL! We observed seasonal elevation changes in a permafrost area using GPS-IR and developed a very simple model to explain them."

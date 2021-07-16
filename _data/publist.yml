@@ -1,3 +1,12 @@
+- title: "Modelling rock glacier velocity and ice content, Khumbu and Lhotse Valleys, Nepal"
+  image: dummy.png 
+  description: ""
+  authors: Yan Hu, Stephan Harrison, Lin Liu, Joanne Wood
+  link:
+    url: https://tc.copernicus.org/preprints/tc-2021-110/
+    display: The Cryosphere (open review)
+  highlight: 0
+
 - title: "Automatically quantifying evolution of retrogressive thaw slumps in Beiluhe (Tibetan Plateau) from multi-temporal CubeSat images"
   image: dummy.png 
   description: ""
@@ -15,7 +24,7 @@
   description: ""
   authors: Jiangjun Ran, Pavel Ditmar, Lin Liu, Yun Xiao, Roland Klees, Xueyuan Tang
   link:
-    url: 
+    url:  https://doi.org/10.1029/2020JB020880
     display: "Journal of Geophysical Research: Solid Earth (2021)"
   highlight: 0
 
