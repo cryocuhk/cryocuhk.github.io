@@ -109,7 +109,7 @@ Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore
 **Postdocs**<br />
 Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />
 Jiangjun Ran, 2018, now Assitant Professor at Southern University of Science and Technology <br />
-Bao Zhang, 2017-18, now at Wuhan University <br />
+Bao Zhang, 2017-18, now Associate Professor (tenured) at Wuhan University <br />
 Zhiwei Zhou, 2017-18, now Associate Researcher at Institute of Geodesy and Geophysics, Chinese Academy of Sciences <br />
 Bo Hu, 2015, now faculty at Guangdong University of Technology <br />
 
@@ -123,11 +123,11 @@ Yue Wu, 2017, now PhD student at University of Texas at Austin <br />
 Michelle Yip Man Wai, 2016, MPhil at University of Hong Kong <br />
 
 **Visiting Students**<br />
-Linyang Xin, 2019, now master student at Wuhan University <br />
+Linyang Xin, 2019, now PhD student at Southern University of Science and Technolog <br />
 Yidan Ding and Haoran Wang, 2019, now master students at Jilin University <br />
 Weifan Zhou, 2018, now master student at Jilin University <br />
 Zhenming Wu, 2017, now PhD student at Reading University <br />
 Jiahui Wang, 2017, now PhD student at Southern Methodist University <br />
 Yongxin Liu, 2017 <br />
-Wanwan Shao, Visiting PhD student 2016-17, now PhD student at Lanzhou University <br />
+Wanwan Shao, 2016-17, PhD at Lanzhou University <br />
 Weiyu Zheng, 2015, now PhD student at Southern Methodist University <br />
