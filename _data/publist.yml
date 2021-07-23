@@ -4,7 +4,16 @@
   authors: Yan Hu, Stephan Harrison, Lin Liu, Joanne Wood
   link:
     url: https://tc.copernicus.org/preprints/tc-2021-110/
-    display: The Cryosphere (open review)
+    display: The Cryosphere Discussions (open review)
+  highlight: 0
+
+- title: "Seasonal InSAR displacements documenting the active layer freeze and thaw progression in central–western Spitsbergen, Svalbard"
+  image: dummy.png 
+  description: ""
+  authors: Line Rouyet, Lin Liu, Sarah Strand, Hanne Hvidtfeldt Christiansen, Tom Rune Lauknes, Yngvar Larsen
+  link:
+    url: 
+    display: Remote Sensing (2021)
   highlight: 0
 
 - title: "Automatically quantifying evolution of retrogressive thaw slumps in Beiluhe (Tibetan Plateau) from multi-temporal CubeSat images"
