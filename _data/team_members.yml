@@ -21,6 +21,17 @@
   interest2: Rock glacier dynamics
   interest3: Permafrost degradation and climate change
   
+- name: Zhangyu (Joe) Sun
+  photo: joe1.jpg
+  info: PhD student
+  email: 1753814280@qq.com
+  number_educ: 3
+  education1: BSc in Navigation Engineering, Wuhan University
+  education2: Master in Geodesy and Survey Engineering, Wuhan University
+  education3: Master in Earth Oriented Space Science and Technology, Technical University of Munich
+  number_intr: 1
+  interest1: Automated mapping of rock glaciers using deep learning
+
 - name: Billy Ho Ming Tsang
   photo: billyhmtsang.jpg
   info: MPhil student
@@ -68,14 +79,3 @@
   interest1: GNSS Reflectometry and its applications in Cryosphere
   interest2: Dynamics of active layer and near-surface permafrost
   interest3: Permafrost hydrology
-  
-- name: Zhangyu (Joe) Sun
-  photo: joe1.jpg
-  info: PhD student
-  email: 1753814280@qq.com
-  number_educ: 3
-  education1: BSc in Navigation Engineering, Wuhan University
-  education2: Master in Geodesy and Survey Engineering, Wuhan University
-  education3: Master in Earth Oriented Space Science and Technology, Technical University of Munich
-  number_intr: 1
-  interest1: Automated mapping of rock glaciers using deep learning
