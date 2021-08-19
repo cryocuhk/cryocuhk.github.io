@@ -7,6 +7,15 @@
     display: The Cryosphere Discussions (open review)
   highlight: 0
 
+- title: "Multi-decadal geomorphic changes of a low-angle valley glacier in East Kunlun Mountains: remote sensing observations and detachment hazard assessment"
+  image: dummy.png 
+  description: ""
+  authors: Xiaowen Wang, Lin Liu, Yan Hu, Tonghua Wu, Lin Zhao, Qiao Liu, Rui Zhang, Bo Zhang, Guoxiang Liu
+  link:
+    url: https://nhess.copernicus.org/preprints/nhess-2021-57/
+    display: Natural Hazards and Earth System Sciences (in press)
+  highlight: 0
+
 - title: "Seasonal InSAR displacements documenting the active layer freeze and thaw progression in central–western Spitsbergen, Svalbard"
   image: dummy.png 
   description: ""
@@ -82,15 +91,6 @@
   link:
     url: https://doi.org/10.1088/1748-9326/abfa4c 
     display: Environmental Research Letters (2021)
-  highlight: 0
-
-- title: "Multi-decadal geomorphic changes of a low-angle valley glacier in East Kunlun Mountains: remote sensing observations and detachment hazard assessment"
-  image: dummy.png 
-  description: ""
-  authors: Xiaowen Wang, Lin Liu, Yan Hu, Tonghua Wu, Lin Zhao, Qiao Liu, Rui Zhang, Bo Zhang, Guoxiang Liu
-  link:
-    url: https://nhess.copernicus.org/preprints/nhess-2021-57/
-    display: Natural Hazards and Earth System Sciences Discussions (open review)
   highlight: 0
 
 - title: "Interannual ice mass variations over the Antarctic ice sheet from 2003 to 2017 were linked to El Niño-Southern Oscillation"
