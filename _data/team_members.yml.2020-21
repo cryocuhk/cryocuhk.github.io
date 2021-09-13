@@ -1,3 +1,13 @@
+- name: Xiyu Chen
+  photo: xiyu.jpg
+  info: PhD student
+  email: xiyu_chen@link.cuhk.edu.hk
+  number_educ: 1
+  education1: BSc and Master in Geographic Information System, Beijing Normal University
+  number_intr: 2
+  interest1: Microwave remote sensing of soil freeze/thaw states
+  interest2: Microwave remote sensing of snow
+  
 - name: Yan Hu
   photo: yan.jpg
   info: PhD student
