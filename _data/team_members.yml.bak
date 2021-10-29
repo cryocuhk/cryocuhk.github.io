@@ -1,6 +1,6 @@
 - name: Yan Hu
   photo: yan.jpg
-  info: Postdoc
+  info: PhD student
   email: huyan@link.cuhk.edu.hk
   addcv: 1
   cv: CV_YanHU_180802.pdf
@@ -58,3 +58,14 @@
   interest1: Terminus variations of glaciers in Greenland 
   interest2: Automatic extracting calving front based on Deep Learning
   interest3: Glacier dynamics
+  
+- name: Jiahua Zhang
+  photo: jiahua.jpg
+  info: PhD student
+  email: zhangjiahua@link.cuhk.edu.hk
+  number_educ: 1
+  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
+  number_intr: 3
+  interest1: GNSS Reflectometry and its applications in Cryosphere
+  interest2: Dynamics of active layer and near-surface permafrost
+  interest3: Permafrost hydrology

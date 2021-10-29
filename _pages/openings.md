@@ -21,8 +21,7 @@ Every summer in early July, we host a **workshop** inviting all potential applic
 Contact us
 
 ## Postdoc positions
-We are currently looking for one postdoc through the [Hong Kong Scholars Program](https://www.hkscholars.org/).
-
+<!--- !We are currently looking for one postdoc through the [Hong Kong Scholars Program](https://www.hkscholars.org/). -->
 [Hong Kong RGC postdoctoral fellowship scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/) application opens every September.
 
 ## CUHK undergraduate students
