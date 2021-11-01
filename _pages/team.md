@@ -104,7 +104,7 @@ permalink: /team/
 Yan Hu, PhD student 2017-21, now Postdoc at CUHK <br />
 Jiahua Zhang, PhD student 2017-21, now Postdoc at University of Colorado Boulder <br />
 Xiyu Xu, PhD student 2015-21 <br />
-Enze Zhang, PhD student 2016-20, now Postdoc at CUHK <br />
+Enze Zhang, PhD student 2016-20, now Postdoc at University of Texas Austin <br />
 Lingcao Huang, PhD student 2016-19, now Postdoc at University of Colorado Boulder <br />
 Jie Chen, PhD student 2015-19, now Postdoc at Chinese Academy of Sciences <br />
 Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore, now Halliburton Singapore <br />

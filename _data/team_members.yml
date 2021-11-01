@@ -45,21 +45,7 @@
   interest2: Automated mapping of glacial lakes using Deep learning 
   interest3: Glacial lake outburst floods
 
-- name: Enze Zhang
-  photo: enze.jpg
-  info: Research Assistant
-  email: zhangenze@link.cuhk.edu.hk
-  addcv: 1
-  cv: CV_Enze_Zhang.pdf
-  number_educ: 1
-  education1: BSc in Geophysics, University of Science and Technology of China
-  education2: PhD in Earth and Atmospheric Sciences, CUHK
-  number_intr: 3
-  interest1: Terminus variations of glaciers in Greenland 
-  interest2: Automatic extracting calving front based on Deep Learning
-  interest3: Glacier dynamics
-  
 - name: Chengyan Fan
   photo: fancy.JPG
-  info: PhD student
+  info: visiting PhD student
   email: fanchy14@lzu.edu.cn
