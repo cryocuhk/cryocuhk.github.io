@@ -1,3 +1,14 @@
+- title: "Retrogressive thaw slumps along the Qinghai-Tibet Engineering Corridor: a comprehensive inventory and their distribution characteristics"
+  image: dummy.png 
+  description: ""
+  authors: Zhuoxuan Xia, Lingcao Huang, Chengyan Fan, Shichao Jia, Zhanjun Lin, Lin Liu, Jing Luo, Fujun Niu, Tingjun Zhang
+  link:
+    url: https://doi.org/10.5194/essd-2021-439
+    display: Earth System Science Data Discussions (open review) 
+  incdata: 1
+  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.933957
+  highlight: 0
+
 - title: "Magnitudes and patterns of large-scale permafrost ground deformation revealed by Sentinel-1 InSAR on the central Qinghai-Tibet Plateau"
   image: dummy.png 
   description: ""
@@ -14,6 +25,16 @@
   link:
     url: https://tc.copernicus.org/preprints/tc-2021-110/
     display: The Cryosphere Discussions (open review)
+  highlight: 0
+
+
+- title: "A review of Deep Learning for Cryospheric Studies"
+  image: dummy.png 
+  description: ""
+  authors: Lin Liu
+  link:
+    url: https://doi.org/10.1002/9781119646181.ch17
+    display: Deep Learning for the Earth Sciences (2021)
   highlight: 0
 
 - title: "Multi-decadal geomorphic changes of a low-angle valley glacier in East Kunlun Mountains: remote sensing observations and detachment hazard assessment"
