@@ -9,6 +9,15 @@
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.933957
   highlight: 0
 
+- title: "Reconstructing the data gap between GRACE and GRACE follow-on at the basin scale using artificial neural network"
+  image: dummy.png 
+  description: ""
+  authors: Yu Lai, Bao Zhang, Yibin Yao, Lin Liu, Xiao Yan, Yulin He, Shuyuan Ou
+  link:
+    url: https://doi.org/10.1016/j.scitotenv.2022.153770
+    display: Science of The Total Environment (2022)
+  highlight: 0
+
 - title: "Magnitudes and patterns of large-scale permafrost ground deformation revealed by Sentinel-1 InSAR on the central Qinghai-Tibet Plateau"
   image: dummy.png 
   description: ""
