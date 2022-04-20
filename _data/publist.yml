@@ -6,7 +6,16 @@
     url: https://doi.org/10.5194/essd-2021-439
     display: Earth System Science Data Discussions (open review) 
   incdata: 1
-  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.933957
+  dataurl: https://doi.org/10.5281/zenodo.6397028 
+  highlight: 0
+
+- title: "Earth Observation to Investigate Occurrence, Characteristics and Changes of Glaciers, Glacial Lakes and Rock Glaciers in the Poiqu River Basin (Central Himalaya)"
+  image: dummy.png 
+  description: ""
+  authors: Tobias Bolch, Tandong Yao, Atanu Bhattacharya, Yan Hu, Owen King, Lin Liu, Jan Pronk, Philipp Rastner, Guoqing Zhang 
+  link:
+    url: https://doi.org/10.3390/rs14081927
+    display: Remote Sensing (2022)
   highlight: 0
 
 - title: "Reconstructing the data gap between GRACE and GRACE follow-on at the basin scale using artificial neural network"
@@ -36,7 +45,6 @@
     display: The Cryosphere Discussions (open review)
   highlight: 0
 
-
 - title: "A review of Deep Learning for Cryospheric Studies"
   image: dummy.png 
   description: ""
@@ -52,7 +60,7 @@
   authors: Xiaowen Wang, Lin Liu, Yan Hu, Tonghua Wu, Lin Zhao, Qiao Liu, Rui Zhang, Bo Zhang, Guoxiang Liu
   link:
     url: https://nhess.copernicus.org/articles/21/2791/2021/ 
-    display: Natural Hazards and Earth System Sciences 
+    display: Natural Hazards and Earth System Sciences (2021)
   highlight: 0
 
 - title: "Research Progress of InSAR Technology in Permafrost"
