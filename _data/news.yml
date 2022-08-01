@@ -1,3 +1,6 @@
+- date: August 2 2022
+  headline: "Welcome to all EASC summer workshop attendees! Here is <a href='https://cryocuhk.github.io/assets/CryosphereGeophysics.pdf' > Lin's presentation about cryosphere geophysics</a>."
+
 - date: July 22 2022
   headline: "Billy passed his MPhil thesis defense! Congratulations!"
 
@@ -31,8 +34,8 @@
 - date: July 14 2021
   headline: "Yan's paper on modeling rock glacier ice content with constraints from surface velocities has been published as a discussion paper in <a href='https://tc.copernicus.org/preprints/tc-2021-110/'> The Cryosphere</a>."
 
-- date: July 6 2021
-  headline: "Welcome to all EASC summer workshop attendees!"
+#- date: July 6 2021
+#  headline: "Welcome to all EASC summer workshop attendees!"
 
 - date: June 29 2021
   headline: "Seven papers published between April and June, covering permafrost and Greenland ice sheet, using various methods and data. Check them out on <a href='https://cryocuhk.github.io/publications'> our publication page</a>."
