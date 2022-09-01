@@ -1,5 +1,9 @@
+- date: September 1 2022
+  headline: "Summer's paper on deep-learning-aided delineation of thaw slumps and associated dataset have been published in <a href='https://doi.org/10.5194/essd-14-3875-2022'> Earth System Science Data</a>. This paper is dedicated to our mentor and friend Professor Tingjun Zhang who passed away early this year! We will miss you!"
+
 - date: August 2 2022
-  headline: "Welcome to all EASC summer workshop attendees! Here is <a href='https://cryocuhk.github.io/assets/CryosphereGeophysics.pdf' > Lin's presentation about cryosphere geophysics</a>."
+  headline: "Welcome to all EASC summer workshop attendees!"
+  #Here is <a href='https://cryocuhk.github.io/assets/CryosphereGeophysics.pdf' > Lin's presentation about cryosphere geophysics</a>."
 
 - date: July 22 2022
   headline: "Billy passed his MPhil thesis defense! Congratulations!"
@@ -9,9 +13,6 @@
 
 - date: January 18 2022
   headline: "Our group offers multiple PhD positions! Application deadline is Jan 28. See <a href='https://cryocuhk.github.io/openings'> this page</a> for more details."
-
-- date: January 14 2022
-  headline: "Summer's paper on deep-learning-aided delineation of thaw slumps and has been published as a discussion paper in <a href='https://doi.org/10.5194/essd-2021-439'> Earth System Science Data</a>. Any comments and suggestions are welcome!"
 
 - date: November 3 2021
   headline: "Jie, former PhD student, published <a href='https://doi.org/10.1016/j.rse.2021.112778'> a paper in Remote Sensing of Environment</a> that quantifies large-scale surface deformation in permafrost areas in central Tibet." 
