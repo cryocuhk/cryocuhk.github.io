@@ -1,10 +1,34 @@
+- title: "Investigating the seasonal dynamics of surface water over the Qinghai-Tibet Plateau using Sentinel-1 imagery and a novel gated multiscale ConvNet"
+  image: dummy.png 
+  description: ""
+  authors: Xin Luo, Zhongwen Hu, Lin Liu
+  link:
+    url: https://doi.org/10.1080/17538947.2023.2198266
+    display: International Journal of Digital Earth (2023)
+  incdata: 1
+  dataurl: https://doi.org/10.5281/zenodo.7768932
+  inccode: 1
+  code:
+    url: https://github.com/xinluo2018/Tibet-Water-2020
+    display: Code "Tibet-Water-2020" (Written and maintained by Xin Luo)
+  highlight: 0
+
+- title: "Automatic detection and classification of land subsidence in deltaic metropolitan areas using distributed scatterer InSAR and Oriented R-CNN"
+  image: dummy.png 
+  description: ""
+  authors: Zherong Wu, Peifeng Ma, Yi Zheng, Feng Gu, Lin Liu, Hui Lin
+  link:
+    url: https://doi.org/10.1016/j.rse.2023.113545
+    display: Remote Sensing of Environment (2023)
+  highlight: 0
+
 - title: "Retrogressive thaw slumps along the Qinghai-Tibet Engineering Corridor: a comprehensive inventory and their distribution characteristics"
   image: dummy.png 
   description: ""
   authors: Zhuoxuan Xia, Lingcao Huang, Chengyan Fan, Shichao Jia, Zhanjun Lin, Lin Liu, Jing Luo, Fujun Niu, Tingjun Zhang
   link:
     url: https://doi.org/10.5194/essd-14-3875-2022
-    display: Earth System Science Data 
+    display: Earth System Science Data (2022)
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.6397028 
   highlight: 0
