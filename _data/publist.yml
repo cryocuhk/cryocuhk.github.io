@@ -1,3 +1,12 @@
+- title: "Modelling rock glacier ice content based on InSAR-derived velocity, Khumbu and Lhotse valleys, Nepal"
+  image: dummy.png 
+  description: ""
+  authors: Yan Hu, Stephan Harrison, Lin Liu, Joanne Wood
+  link:
+    url: https://doi.org/10.5194/tc-17-2305-2023
+    display: The Cryosphere (2023)
+  highlight: 0
+
 - title: "Investigating the seasonal dynamics of surface water over the Qinghai-Tibet Plateau using Sentinel-1 imagery and a novel gated multiscale ConvNet"
   image: dummy.png 
   description: ""
@@ -67,15 +76,6 @@
   link:
     url: https://doi.org/10.1016/j.rse.2021.112778
     display: Remote Sensing of Environment (2022) 
-  highlight: 0
-
-- title: "Modelling rock glacier velocity and ice content, Khumbu and Lhotse Valleys, Nepal"
-  image: dummy.png 
-  description: ""
-  authors: Yan Hu, Stephan Harrison, Lin Liu, Joanne Wood
-  link:
-    url: https://tc.copernicus.org/preprints/tc-2021-110/
-    display: The Cryosphere Discussions (open review)
   highlight: 0
 
 - title: "A review of Deep Learning for Cryospheric Studies"
