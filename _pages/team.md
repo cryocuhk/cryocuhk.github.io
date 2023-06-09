@@ -103,11 +103,11 @@ permalink: /team/
 **Graduate Students**<br />
 Yan Hu, PhD student 2017-21, now Postdoc at CUHK <br />
 Jiahua Zhang, PhD student 2017-21, now Postdoc at University of Colorado Boulder <br />
-Xiyu Xu, PhD student 2015-21 <br />
+Xiyu Xu, PhD student 2015-21, now researcher at Chongqing Forestry Research Institute <br />
 Enze Zhang, PhD student 2016-20, now Postdoc at University of Texas Austin <br />
-Lingcao Huang, PhD student 2016-19, now Postdoc at University of Colorado Boulder <br />
+Lingcao Huang, PhD student 2016-19, now Postdoc at University of Victoria <br />
 Jie Chen, PhD student 2015-19, now Postdoc at Chinese Academy of Sciences <br />
-Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore, now Halliburton Singapore <br />
+Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore, now Principal Scientist at Halliburton <br />
 
 **Postdocs**<br />
 Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />

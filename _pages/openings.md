@@ -21,7 +21,7 @@ Every summer in early July, we host a **workshop** inviting all potential applic
 Contact us
 
 ## Postdoc positions
-We are currently looking for one postdoc to work on an interdiscplinary project on thermokarst lakes and thaw slumps. Contact me if you are interested in learning more! 
+<!-- We are currently looking for one postdoc to work on an interdiscplinary project on thermokarst lakes and thaw slumps. Contact me if you are interested in learning more! --> 
 
 <!--- !We are currently looking for one postdoc through the [Hong Kong Scholars Program](https://www.hkscholars.org/). -->
 [Hong Kong RGC postdoctoral fellowship scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/) application opens every September.
