@@ -1,3 +1,7 @@
+- date: July 4 2022
+  headline: "Welcome to all EASC summer workshop attendees!"
+  Here is <a href='https://cryocuhk.github.io/assets/CryosphereCUHK.pdf' > Lin's presentation highlighting our group's research</a>."
+
 - date: June 10 2023
   headline: "Yan's paper on modeling rock glacier ice content with constraints from surface velocities has been published in <a href='https://doi.org/10.5194/tc-17-2305-2023'> The Cryosphere</a>!"
 
@@ -8,8 +12,7 @@
   headline: "Summer's paper on deep-learning-aided delineation of thaw slumps and associated dataset have been published in <a href='https://doi.org/10.5194/essd-14-3875-2022'> Earth System Science Data</a>. This paper is dedicated to our mentor and friend Professor Tingjun Zhang who passed away early this year! We will miss you!"
 
 - date: August 2 2022
-  headline: "Welcome to all EASC summer workshop attendees!"
-  #Here is <a href='https://cryocuhk.github.io/assets/CryosphereGeophysics.pdf' > Lin's presentation about cryosphere geophysics</a>."
+  headline: "Jianlong (Herbert) He joined our group as a new PhD student to work on Martian cryosphere. Welcome, Herbet!"
 
 - date: July 22 2022
   headline: "Billy passed his MPhil thesis defense! Congratulations!"
@@ -37,9 +40,6 @@
 
 - date: July 14 2021
   headline: "Yan defended her PhD dissertation with flying colors! Congratulations to Dr. Hu!"
-
-#- date: July 6 2021
-#  headline: "Welcome to all EASC summer workshop attendees!"
 
 - date: June 29 2021
   headline: "Seven papers published between April and June, covering permafrost and Greenland ice sheet, using various methods and data. Check them out on <a href='https://cryocuhk.github.io/publications'> our publication page</a>."
