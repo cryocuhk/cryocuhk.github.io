@@ -7,7 +7,7 @@
   number_educ: 1
   education1: BSc and Master in Geology, Peking University
   number_intr: 3
-  interest1: Periglacial landforms in western China 
+  interest1: Periglacial landforms in western China
   interest2: Rock glacier dynamics
   interest3: Permafrost degradation and climate change
 
@@ -16,9 +16,9 @@
   info: Postdoc
   email: zhao.zhuoyi@link.cuhk.edu.hk
   number_intr: 2
-  interest1: Quantifying the development of retrogressive thaw slumps (RTS) 
+  interest1: Quantifying the development of retrogressive thaw slumps (RTS)
   interest2: Deep learning applications in remote sensing and earth system science
-  
+
 - name: Zhangyu (Joe) Sun
   photo: joe1.jpg
   info: PhD student
@@ -38,7 +38,7 @@
   email: billyhmtsang@link.cuhk.edu.hk
   number_intr: 1
   interest1: Deep learning applications in Earth System Science
-  
+
 - name: Zhuoxuan (Summer) Xia
   photo: ZhuoxuanXIA.jpg
   info: PhD student
@@ -52,7 +52,7 @@
   education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
   number_intr: 3
   interest1: InSAR applications in permafrost deformation measurements
-  interest2: Automated mapping of glacial lakes using Deep learning 
+  interest2: Automated mapping of glacial lakes using Deep learning
   interest3: Glacial lake outburst floods
 
 - name: Jianlong (Herbert) He
@@ -61,7 +61,7 @@
   email: JianlongHE@link.cuhk.edu.hk
 
 - name: Chengyan (Fancy) Fan
-  photo: Fancy_1.JPG
+  photo: Fancy_1.jpg
   info: Research Assistant
   email: fanchy14@lzu.edu.cn
   number_intr: 1
