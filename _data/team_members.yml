@@ -60,7 +60,9 @@
   info: PhD student
   email: JianlongHE@link.cuhk.edu.hk
 
-  #- name: Chengyan Fan
-  #photo: fancy.JPG
-  #info: Visiting PhD student
-  #email: fanchy14@lzu.edu.cn
+- name: Chengyan Fan
+  photo: Fancy_1.JPG
+  info: Research Assistant
+  email: fanchy14@lzu.edu.cn
+  number_intr: 1
+  interest1: Applications of InSAR Technical in permafrost regions
