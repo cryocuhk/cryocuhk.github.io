@@ -101,15 +101,18 @@ permalink: /team/
 
 ## Alumni
 **Graduate Students**<br />
+Xingyu (Carol) Xu, PhD student 2019-23, now Postdoc at CUHK
+Billy Ho Ming Tsang, MPhil student 2020-22, now PhD student at University of Hong Kong <br />
 Yan Hu, PhD student 2017-21, now Postdoc at CUHK <br />
-Jiahua Zhang, PhD student 2017-21, now Postdoc at University of Colorado Boulder <br />
-Xiyu Xu, PhD student 2015-21, now researcher at Chongqing Forestry Research Institute <br />
+Jiahua Zhang, PhD student 2017-21, now Project Scientist at University Corporation for Atmospheric Research (UCAR) <br />
+Xiyu Xu, PhD student 2015-21, now Researcher at Chongqing Forestry Research Institute <br />
 Enze Zhang, PhD student 2016-20, now Postdoc at University of Texas Austin <br />
-Lingcao Huang, PhD student 2016-19, now Postdoc at University of Victoria <br />
-Jie Chen, PhD student 2015-19, now Postdoc at Chinese Academy of Sciences <br />
+Lingcao Huang, PhD student 2016-19, now Research Assistant Professor at CUHK <br />
+Jie Chen, PhD student 2015-19, now Postdoc at University of Alaska Fairbanks <br />
 Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore, now Principal Scientist at Halliburton <br />
 
 **Postdocs**<br />
+Xiaofan Zhu, 2022, now Associate Researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences <br />
 Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />
 Jiangjun Ran, 2018, now Assitant Professor at Southern University of Science and Technology <br />
 Bao Zhang, 2017-18, now Associate Professor at Wuhan University <br />
@@ -123,7 +126,7 @@ Xiaowen Wang, 2016-17, now Associate Professor at Southwest Jiaotong University 
 
 **Undergraduate Students (Final-year Project Advisees)**<br />
 Yue Wu, 2017, now PhD student at University of Texas at Austin <br />
-Michelle Yip Man Wai, 2016, now PhD at University of Hong Kong <br />
+Michelle Yip Man Wai, 2016, now PhD student at University of Hong Kong <br />
 
 **Visiting Students**<br />
 Linyang Xin, 2019, now PhD student at Southern University of Science and Technolog <br />
