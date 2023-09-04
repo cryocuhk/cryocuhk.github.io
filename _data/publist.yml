@@ -1,3 +1,18 @@
+- title: "Mapping and Characterizing Rock Glaciers in the Arid Western Kunlun Mountains Supported by InSAR and Deep Learning"
+  image: dummy.png 
+  description: ""
+  authors: Yan Hu, Lin Liu, Lingcao Huang, Lin Zhao, Tonghua Wu, Xiaowen Wang, Jiaxin Cai
+  link:
+    url: https://doi.org/10.1029/2023JF007206
+    display: Journal of Geophysical Research: Earth Surface (2023)
+  inccode: 1
+  code:
+    url: https://doi.org/10.5281/zenodo.8223732
+    display: Code "Landuse_DL v1.0" (Written and maintained by Lingcao Huang and Yan Hu)
+  highlight: 0
+  incdata: 1
+  dataurl: https://doi.pangaea.de/10.1594/PANGAEA.938686  
+
 - title: "Modelling rock glacier ice content based on InSAR-derived velocity, Khumbu and Lhotse valleys, Nepal"
   image: dummy.png 
   description: ""
