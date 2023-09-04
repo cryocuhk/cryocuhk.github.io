@@ -101,7 +101,7 @@ permalink: /team/
 
 ## Alumni
 **Graduate Students**<br />
-Xingyu (Carol) Xu, PhD student 2019-23, now Postdoc at CUHK
+Xingyu (Carol) Xu, PhD student 2019-23, now Postdoc at CUHK <br />
 Billy Ho Ming Tsang, MPhil student 2020-22, now PhD student at University of Hong Kong <br />
 Yan Hu, PhD student 2017-21, now Postdoc at CUHK <br />
 Jiahua Zhang, PhD student 2017-21, now Project Scientist at University Corporation for Atmospheric Research (UCAR) <br />
@@ -116,7 +116,7 @@ Xiaofan Zhu, 2022, now Associate Researcher at Northwest Institute of Eco-Enviro
 Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />
 Jiangjun Ran, 2018, now Assitant Professor at Southern University of Science and Technology <br />
 Bao Zhang, 2017-18, now Associate Professor at Wuhan University <br />
-Zhiwei Zhou, 2017-18, now Associate Researcher at Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences <br />
+Zhiwei Zhou, 2017-18, now Associate Researcher at Innovation Academy for Precision Measurement Science and Technology, CAS <br />
 Bo Hu, 2015, now faculty at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
@@ -130,10 +130,10 @@ Michelle Yip Man Wai, 2016, now PhD student at University of Hong Kong <br />
 
 **Visiting Students**<br />
 Linyang Xin, 2019, now PhD student at Southern University of Science and Technolog <br />
-Yidan Ding and Haoran Wang, 2019, now master students at Jilin University <br />
-Weifan Zhou, 2018, now master student at Jilin University <br />
+Yidan Ding and Haoran Wang, 2019, master students at Jilin University <br />
+Weifan Zhou, 2018, master student at Jilin University <br />
 Zhenming Wu, 2017, now PhD student at Reading University <br />
-Jiahui Wang, 2017, now PhD student at Southern Methodist University <br />
+Jiahui Wang, 2017, PhD student at Southern Methodist University <br />
 Yongxin Liu, 2017 <br />
 Wanwan Shao, 2016-17, PhD at Lanzhou University <br />
 Weiyu Zheng, 2015, now PhD student at Southern Methodist University <br />
