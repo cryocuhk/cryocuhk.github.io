@@ -1,20 +1,30 @@
 - name: Yan Hu
   photo: yan.jpg
-  info: PhD student
+  info: Postdoc
   email: huyan@link.cuhk.edu.hk
   addcv: 1
   cv: CV_YanHU_180802.pdf
   number_educ: 1
   education1: BSc and Master in Geology, Peking University
   number_intr: 3
-  interest1: Periglacial landforms in western China 
+  interest1: Periglacial landforms in western China
   interest2: Rock glacier dynamics
   interest3: Permafrost degradation and climate change
-  
+
+- name: ZHAO Zhuoyi, Joey
+  photo: zhao_zhuoyi.jpg
+  info: Postdoc
+  email: zhao.zhuoyi@link.cuhk.edu.hk
+  number_intr: 2
+  interest1: Quantifying the development of retrogressive thaw slumps (RTS)
+  interest2: Deep learning applications in remote sensing and earth system science
+
 - name: Zhangyu (Joe) Sun
   photo: joe1.jpg
   info: PhD student
   email: sunzhangyu@link.cuhk.edu.hk
+  addcv: 1
+  cv: CV_joe.pdf
   number_educ: 3
   education1: BSc in Navigation Engineering, Wuhan University
   education2: Master in Geodesy and Survey Engineering, Wuhan University
@@ -28,7 +38,7 @@
   email: billyhmtsang@link.cuhk.edu.hk
   number_intr: 1
   interest1: Deep learning applications in Earth System Science
-  
+
 - name: Zhuoxuan (Summer) Xia
   photo: ZhuoxuanXIA.jpg
   info: PhD student
@@ -42,30 +52,17 @@
   education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
   number_intr: 3
   interest1: InSAR applications in permafrost deformation measurements
-  interest2: Automated mapping of glacial lakes using Deep learning 
+  interest2: Automated mapping of glacial lakes using Deep learning
   interest3: Glacial lake outburst floods
 
-- name: Enze Zhang
-  photo: enze.jpg
-  info: Research Assistant
-  email: zhangenze@link.cuhk.edu.hk
-  addcv: 1
-  cv: CV_Enze_Zhang.pdf
-  number_educ: 1
-  education1: BSc in Geophysics, University of Science and Technology of China
-  education2: PhD in Earth and Atmospheric Sciences, CUHK
-  number_intr: 3
-  interest1: Terminus variations of glaciers in Greenland 
-  interest2: Automatic extracting calving front based on Deep Learning
-  interest3: Glacier dynamics
-  
-- name: Jiahua Zhang
-  photo: jiahua.jpg
+- name: Jianlong (Herbert) He
+  photo: Herbert.jpg
   info: PhD student
-  email: zhangjiahua@link.cuhk.edu.hk
-  number_educ: 1
-  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
-  number_intr: 3
-  interest1: GNSS Reflectometry and its applications in Cryosphere
-  interest2: Dynamics of active layer and near-surface permafrost
-  interest3: Permafrost hydrology
+  email: JianlongHE@link.cuhk.edu.hk
+
+- name: Chengyan (Fancy) Fan
+  photo: Fancy_1.jpg
+  info: Research Assistant
+  email: fanchy14@lzu.edu.cn
+  number_intr: 1
+  interest1: Applications of InSAR Technical in permafrost regions
