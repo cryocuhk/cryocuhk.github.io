@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-As part of the [Earth and Environmental Sciences programme](https://www.cuhk.edu.hk/sci/essc/index.html) at The Chinese University of Hong Kong (CUHK), our research group studies the cryosphere, namely the earth's surface where water is frozen. 
+As part of the [Earth and Environmental Sciences Programme](https://www.cuhk.edu.hk/sci/essc/index.html) at The Chinese University of Hong Kong (CUHK), our research group studies the cryosphere, namely the earth's surface where water is frozen. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
