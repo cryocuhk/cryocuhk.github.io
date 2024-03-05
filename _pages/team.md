@@ -114,13 +114,13 @@ Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore
 **Postdocs**<br />
 Xiaofan Zhu, 2022, now Associate Researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences <br />
 Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />
-Jiangjun Ran, 2018, now Assitant Professor at Southern University of Science and Technology <br />
+Jiangjun Ran, 2018, now Associate Professor at Southern University of Science and Technology <br />
 Bao Zhang, 2017-18, now Associate Professor at Wuhan University <br />
 Zhiwei Zhou, 2017-18, now Associate Researcher at Innovation Academy for Precision Measurement Science and Technology, CAS <br />
 Bo Hu, 2015, now faculty at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
-Yufeng Hu, 2017-18, now Lecturer at Chang'an University <br />
+Yufeng Hu, 2017-18, now Associate Professor at Chang'an University <br />
 Kenneth Ho Ngai Lun, 2017-18, now Master Student at University of Southampton <br />
 Xiaowen Wang, 2016-17, now Associate Professor at Southwest Jiaotong University <br />
 
@@ -129,6 +129,7 @@ Yue Wu, 2017, now PhD student at University of Texas at Austin <br />
 Michelle Yip Man Wai, 2016, now PhD student at University of Hong Kong <br />
 
 **Visiting Students**<br />
+Mingkai Chen, 2023, master student at East China University of Technology <br />
 Linyang Xin, 2019, now PhD student at Southern University of Science and Technolog <br />
 Yidan Ding and Haoran Wang, 2019, master students at Jilin University <br />
 Weifan Zhou, 2018, master student at Jilin University <br />
