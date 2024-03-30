@@ -24,14 +24,17 @@
   info: PhD student
   email: sunzhangyu@link.cuhk.edu.hk
   addcv: 1
-  cv: CV_joe.pdf
+  cv: CV_joe1.pdf
   number_educ: 3
   education1: BSc in Navigation Engineering, Wuhan University
   education2: Master in Geodesy and Survey Engineering, Wuhan University
   education3: Master in Earth Oriented Space Science and Technology, Technical University of Munich
   number_intr: 1
-  interest1: Automated mapping of rock glaciers using deep learning
-
+  interest1: Rock glaciers
+  interest2: Deep learning
+  interest3: InSAR
+  interest4: Processing of high-resolution historical and modern satellite stereo data
+  
 - name: Zhuoxuan (Summer) Xia
   photo: ZhuoxuanXIA.jpg
   info: PhD student
