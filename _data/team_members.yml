@@ -23,7 +23,7 @@
   photo: joe1.jpg
   info: PhD student
   email: sunzhangyu@link.cuhk.edu.hk
-  addcv: 1
+  addcv: 4
   cv: CV_joe1.pdf
   number_educ: 3
   education1: BSc in Navigation Engineering, Wuhan University
@@ -32,7 +32,7 @@
   number_intr: 1
   interest1: Rock glaciers
   interest2: Deep learning
-  interest3: InSAR
+  interest3: Interferometric Synthetic Aperture Radar (InSAR)
   interest4: Processing of high-resolution historical and modern satellite stereo data
   
 - name: Zhuoxuan (Summer) Xia
