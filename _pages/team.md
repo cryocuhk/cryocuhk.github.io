@@ -106,12 +106,13 @@ Billy Ho Ming Tsang, MPhil student 2020-22, now PhD student at University of Hon
 Yan Hu, PhD student 2017-21, now Postdoc at CUHK <br />
 Jiahua Zhang, PhD student 2017-21, now Project Scientist at University Corporation for Atmospheric Research (UCAR) <br />
 Xiyu Xu, PhD student 2015-21, now Researcher at Chongqing Forestry Research Institute <br />
-Enze Zhang, PhD student 2016-20, now Postdoc at University of Texas Austin <br />
+Enze Zhang, PhD student 2016-20, now Postdoc at Hong Kong University of Science and Technology <br />
 Lingcao Huang, PhD student 2016-19, now Research Assistant Professor at CUHK <br />
 Jie Chen, PhD student 2015-19, now Postdoc at University of Alaska Fairbanks <br />
 Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore, now Principal Scientist at Halliburton <br />
 
 **Postdocs**<br />
+Zhuoyi (Joey) Zhao, 2022-24, now Postdoc at University of Colorado Boulder  <br />
 Xiaofan Zhu, 2022, now Associate Researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences <br />
 Guoyan Jiang, 2017-19, jointly supervised with Prof. T-f Wong, now Research Professor at Wuhan University <br />
 Jiangjun Ran, 2018, now Associate Professor at Southern University of Science and Technology <br />
@@ -120,6 +121,7 @@ Zhiwei Zhou, 2017-18, now Associate Researcher at Innovation Academy for Precisi
 Bo Hu, 2015, now faculty at Guangdong University of Technology <br />
 
 **Research Assistants**<br />
+Chengyan (Fancy) Fan, 2023-24, now PhD student at Lanzhou University <br />
 Yufeng Hu, 2017-18, now Associate Professor at Chang'an University <br />
 Kenneth Ho Ngai Lun, 2017-18, now Master Student at University of Southampton <br />
 Xiaowen Wang, 2016-17, now Associate Professor at Southwest Jiaotong University <br />
@@ -134,7 +136,7 @@ Linyang Xin, 2019, now PhD student at Southern University of Science and Technol
 Yidan Ding and Haoran Wang, 2019, master students at Jilin University <br />
 Weifan Zhou, 2018, master student at Jilin University <br />
 Zhenming Wu, 2017, now PhD student at Reading University <br />
-Jiahui Wang, 2017, PhD student at Southern Methodist University <br />
+Jiahui Wang, 2017, PhD at Southern Methodist University <br />
 Yongxin Liu, 2017 <br />
 Wanwan Shao, 2016-17, PhD at Lanzhou University <br />
-Weiyu Zheng, 2015, now PhD student at Southern Methodist University <br />
+Weiyu Zheng, 2015, PhD at Southern Methodist University <br />
