@@ -103,7 +103,7 @@ permalink: /team/
 **Graduate Students**<br />
 Xingyu (Carol) Xu, PhD student 2019-23, now Postdoc at CUHK <br />
 Billy Ho Ming Tsang, MPhil student 2020-22, now PhD student at University of Hong Kong <br />
-Yan Hu, PhD student 2017-21, now Postdoc at CUHK <br />
+Yan Hu, PhD student 2017-21, now Postdoc at University of Fribourg <br />
 Jiahua Zhang, PhD student 2017-21, now Project Scientist at University Corporation for Atmospheric Research (UCAR) <br />
 Xiyu Xu, PhD student 2015-21, now Researcher at Chongqing Forestry Research Institute <br />
 Enze Zhang, PhD student 2016-20, now Postdoc at Hong Kong University of Science and Technology <br />
