@@ -6,6 +6,14 @@
     url:   https://doi.org/10.1016/j.srs.2024.100157
     display: Science of Remote Sensing (2024)
 
+- title: "Advances in InSAR Analysis of Permafrost Terrain"
+  image: dummy.png 
+  description: ""
+  authors: Simon Zwieback, Lin Liu, Line Rouyet, Naomi Short, Tazio Strozzi
+  link:
+    url:   https://doi.org/10.1002/ppp.2248
+    display:  Permafrost and Periglacial Processes (2024)
+
 - title: "GNSS and the Cryosphere"
   image: dummy.png 
   description: ""
