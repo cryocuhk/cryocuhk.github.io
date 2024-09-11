@@ -16,6 +16,14 @@
     url:   https://doi.org/10.1016/j.srs.2024.100157
     display: Science of Remote Sensing (2024)
 
+- title: "Automatic extraction of glacial lakes from Landsat imagery using deep learning across the Third Pole region"
+  image: dummy.png 
+  description: ""
+  authors: Qian Tang, Guoqing Zhang, Tandong Yao, Marc Wieland, Lin Liu, Saurabh Kaushik
+  link:
+    url:   https://doi.org/10.1016/j.rse.2024.114413
+    display: Remote Sensing of Environment (2024)
+
 - title: "Advances in InSAR Analysis of Permafrost Terrain"
   image: dummy.png 
   description: ""
