@@ -1,16 +1,3 @@
-- name: Yan Hu
-  photo: yan.jpg
-  info: Postdoc
-  email: huyan@link.cuhk.edu.hk
-  addcv: 1
-  cv: CV_YanHU_180802.pdf
-  number_educ: 1
-  education1: BSc and Master in Geology, Peking University
-  number_intr: 3
-  interest1: Periglacial landforms in western China
-  interest2: Rock glacier dynamics
-  interest3: Permafrost degradation and climate change
-
 - name: Zhangyu (Joe) Sun
   photo: joe.jpg
   info: PhD student
