@@ -1,10 +1,10 @@
-- title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
-  image: dummy.png 
-  description: ""
-  authors: Jiangjun Ran, Pavel Ditmar, Michiel R. van den Broeke, Lin Liu, Roland Klees, Shfaqat Abbas Khan, Twila Moon, Jiancheng Li, Michael Bevis, Min Zhong, Xavier Fettweis, Junguo Liu, Brice Noël, C. K. Shum, Jianli Chen, Liming Jiang, Tonie van Dam
-  link:
-    url:  https://doi.org/10.1038/s41586-024-08096-3
-    display: Nature (in press)
+#- title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
+#  image: dummy.png 
+#  description: ""
+#  authors: Jiangjun Ran, Pavel Ditmar, Michiel R. van den Broeke, Lin Liu, Roland Klees, Shfaqat Abbas Khan, Twila Moon, Jiancheng Li, Michael Bevis, Min Zhong, Xavier Fettweis, Junguo Liu, Brice Noël, C. K. Shum, Jianli Chen, Liming Jiang, Tonie van Dam
+#  link:
+#    url:  https://doi.org/10.1038/s41586-024-08096-3
+#    display: Nature (in press)
 
 - title: "Widespread and rapid activities of retrogressive thaw slumps on the Qinghai‐Tibet Plateau from 2016 to 2022"
   image: dummy.png 
@@ -15,6 +15,7 @@
     display: Geophysical Research Letters (2024)
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10928346
+  highlight: 1
 
 - title: "Combined Use of Multi-source Satellite Imagery and Deep Learning for Automated Mapping of Glacial Lakes in the Bhutan Himalaya"
   image: dummy.png 

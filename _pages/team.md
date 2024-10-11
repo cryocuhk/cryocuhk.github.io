@@ -127,7 +127,7 @@ Kenneth Ho Ngai Lun, 2017-18, now Master Student at University of Southampton <b
 Xiaowen Wang, 2016-17, now Associate Professor at Southwest Jiaotong University <br />
 
 **Undergraduate Students (Final-year Project Advisees)**<br />
-Yue Wu, 2017, now PhD student at University of Texas at Austin <br />
+Yue Wu, 2017, later  PhD student at University of Texas at Austin <br />
 Michelle Yip Man Wai, 2016, now PhD student at University of Hong Kong <br />
 
 **Visiting Students**<br />
@@ -135,8 +135,8 @@ Mingkai Chen, 2023, now PhD student at Wuhan University of Technology <br />
 Linyang Xin, 2019, now PhD student at Southern University of Science and Technology <br />
 Yidan Ding and Haoran Wang, 2019, master students at Jilin University <br />
 Weifan Zhou, 2018, master student at Jilin University <br />
-Zhenming Wu, 2017, now PhD student at Reading University <br />
+Zhenming Wu, 2017, later PhD student at Reading University <br />
 Jiahui Wang, 2017, PhD at Southern Methodist University <br />
-Yongxin Liu, 2017 <br />
+Yongxin Liu, 2017, undergraduate student at Wuhan University <br />
 Wanwan Shao, 2016-17, PhD at Lanzhou University <br />
-Weiyu Zheng, 2015, PhD at Southern Methodist University <br />
+Weiyu Zheng, 2015, later PhD at Southern Methodist University <br />
