@@ -24,7 +24,7 @@ Contact us
 <!-- We are currently looking for one postdoc to work on an interdiscplinary project on thermokarst lakes and thaw slumps. Contact me if you are interested in learning more! --> 
 
 <!--- !We are currently looking for one postdoc through the [Hong Kong Scholars Program](https://www.hkscholars.org/). -->
-[Hong Kong RGC postdoctoral fellowship scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/) application opens every September.
+[Hong Kong RGC Junior Research Fellow Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/) application opens every September.
 
 ## CUHK undergraduate students
 If you are an undergraduate student at CUHK looking for a research project, contact Lin by [email](mailto:liulin@cuhk.edu.hk) or stop by his office (MMW 315). 
