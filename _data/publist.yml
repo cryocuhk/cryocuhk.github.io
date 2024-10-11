@@ -106,6 +106,7 @@
     url: https://doi.org/10.5194/tc-17-2305-2023
     display: The Cryosphere (2023)
   highlight: 1
+  highlight_display: Yan Hu et al., TC 2023
 
 - title: "Investigating the seasonal dynamics of surface water over the Qinghai-Tibet Plateau using Sentinel-1 imagery and a novel gated multiscale ConvNet"
   image: dummy.png 
@@ -677,7 +678,7 @@
     url: https://www.nature.com/articles/nclimate2161
     display: Nature Climate Change (2014)
   highlight: 1
-  highlight_display: Khan et al., Nature Climate Change
+  highlight_display: Khan et al., Nature Climate Change 2014
   news1: 
 
 - title: Carbon and geochemical properties of cryosols on the North Slope of Alaska
