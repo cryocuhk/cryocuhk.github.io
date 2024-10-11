@@ -44,7 +44,7 @@
 - title: "Remote Sensing and Modeling of the Cryosphere in High Mountain Asia: A Multidisciplinary Review"
   image: dummy.png 
   description: ""
-  authors: Qinghua Ye, Yuzhe Wang, Lin Liu, Linan Guo et al.
+  authors: Qinghua Ye, Yuzhe Wang, Lin Liu, Linan Guo, Xueqin Zhang,Liyun Dai, Limin Zhai, Yafan Hu,Nauman Ali,Xinhui Ji, Youhua Ran,Yubao Qiu, Lijuan Shi,Tao Che,Ninglian Wang, Xin Li, Liping Zhu
   link:
     url:   https://www.mdpi.com/2072-4292/16/10/1709
     display: Remote Sensing (2024)
@@ -62,8 +62,8 @@
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
   description: ""
-  #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
-  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, J. Qiu, R. Hu, J. Li, J. Peng, C. Hwang, Y. Luan, Y. Sun, M. Xu, D. Chen, J. Ding, Y. Zhong
+  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
+  #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, J. Qiu, R. Hu, J. Li, J. Peng, C. Hwang, Y. Luan, Y. Sun, M. Xu, D. Chen, J. Ding, Y. Zhong
   link:
     url: https://doi.org/10.1016/j.scitotenv.2023.168342
     display: Science of The Total Environment (2024)
