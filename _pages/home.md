@@ -49,4 +49,4 @@ As part of the [Department of Earth and Environmental Sciences](https://www.ees.
 
 We use a wide range of methods, including geophysics, geodesy, remote sensing, and deep learning. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the cryospheric systems (see our current research on [the Greenland Ice Sheet and glaciers](research_greenland) and [frozen ground](research_frozenground)).
 
-**We are recruiting new PhD students and one postdoc** [(see Openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are recruiting new PhD students** [(see Openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**

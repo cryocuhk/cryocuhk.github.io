@@ -15,7 +15,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
@@ -25,7 +25,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/publication/{{ publi.image }}" class="img-responsive" width="50%" style="float: top" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/publication/{{ publi.image }}" class="img-responsive" width="80%" style="float: top" />
   <p>{{ publi.description }}</p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.highlight_display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
@@ -42,7 +42,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}

@@ -1,7 +1,7 @@
 - title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
   image: dummy.jpg 
   description: 
-  authors: Jiangjun Ran, Pavel Ditmar, Michiel van den Broeke, Lin Liu, Roland Klees, Shfaqat Abbas Khan, Twila Moon, Jiancheng Li, Michael Bevis, Min Zhong 
+  authors: Jiangjun Ran, Pavel Ditmar, Michiel van den Broeke, Lin Liu, Roland Klees, Shfaqat Abbas Khan, Twila Moon, Jiancheng Li, Michael Bevis, Min Zhong, Xavier Fettweis,  
   link:
     url:   https://doi.org/10.1038/s41586-024-08096-3
     display: Nature (in press)
@@ -526,7 +526,7 @@
   highlight: 1
   highlight_display: Schuster et al., GRL 2018
   #news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
-  news1: AGU <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > Highlight Article </a>
+  news2: AGU <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > Highlight Article </a>
 
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
   image: dummy.png
@@ -656,6 +656,7 @@
     url: https://doi.org/10.1002/2014GL060533
     display:  Geophysical Research Letters (2014)
   highlight: 1
+  highlight_display: Liu et al., GRL 2024
 
 - title: Seasonal thaw settlement at drained thermokarst lake basins, Arctic Alaska
   image: dummy.png
