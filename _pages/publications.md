@@ -22,7 +22,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 <div class="row">
 {% endif %}
 
-<div class="col-sm-8 clearfix">
+<div class="col-sm-4 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/publication/{{ publi.image }}" class="img-responsive" width="60%" style="float: top" />
