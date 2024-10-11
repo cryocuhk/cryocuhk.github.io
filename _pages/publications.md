@@ -15,7 +15,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
