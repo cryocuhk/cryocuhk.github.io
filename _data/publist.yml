@@ -98,8 +98,8 @@
   highlight: 0
 
 - title: "Modelling rock glacier ice content based on InSAR-derived velocity, Khumbu and Lhotse valleys, Nepal"
-  image: dummy.png 
-  description: ""
+  image: rg_rhelogy.png 
+  description: "A rhelogy model constrained by surface velocity can infer ground ice burried in rock glaciers."
   authors: Yan Hu, Stephan Harrison, Lin Liu, Joanne Wood
   link:
     url: https://doi.org/10.5194/tc-17-2305-2023
