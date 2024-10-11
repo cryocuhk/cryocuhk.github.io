@@ -18,6 +18,7 @@
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10928346
   highlight: 1
+  highlight_display: Zhuoxuan Xia et al., GRL 2024
 
 - title: "Combined Use of Multi-source Satellite Imagery and Deep Learning for Automated Mapping of Glacial Lakes in the Bhutan Himalaya"
   image: dummy.png 
