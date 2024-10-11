@@ -1,5 +1,5 @@
 - title: "Widespread and rapid activities of retrogressive thaw slumps on the Qinghai‐Tibet Plateau from 2016 to 2022"
-  image: dummy.png 
+  image: rts_madoi.jpg 
   description: ""
   authors: Zhuoxuan Xia, Lin Liu, Cuicui Mu, Xiaoqing Peng, Zhuoyi Zhao, Lingcao Huang, Jing Luo, Chengyan Fan
   link:
@@ -59,6 +59,7 @@
     display: Earth System Science Data  (open discussion)
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10732042
+  highlight: 1
 
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
