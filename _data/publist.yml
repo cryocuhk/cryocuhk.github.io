@@ -75,8 +75,8 @@
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
   description: ""
-  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang
-  #, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
+  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, 
+# Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   link:
     url: https://doi.org/10.1016/j.scitotenv.2023.168342
@@ -342,7 +342,7 @@
 - title: "Centennial response of Greenland’s three largest outlet glaciers"
   image: dummy.png 
   description: ""
-  authors: Shfaqat A. Khan, Anders A. Bjørk, Jonathan Bamber, Mathieu Morlighem, Michael Bevis, Kurt Kjær, Jérémie Mouginot, Anja Løkkegaard, David Holland, Andy Aschwanden, Bao Zhang, Veit Helm, Niels Korsgaard, William Colgan, Nicolaj Larsen, Lin Liu, Karina Hansen, Valentina Barletta, Trine Dahl-Jensen, Anne Sofie Søndergaard, Beata Csatho, Ingo Sasgen, Jason Box, Toni Schenk
+  authors: Shfaqat Abbas Khan, Anders A. Bjørk, Jonathan Bamber, Mathieu Morlighem, Michael Bevis, Kurt Kjær, Jérémie Mouginot, Anja Løkkegaard, David Holland, Andy Aschwanden, Bao Zhang, Veit Helm, Niels Korsgaard, William Colgan, Nicolaj Larsen, Lin Liu, Karina Hansen, Valentina Barletta, Trine Dahl-Jensen, Anne Sofie Søndergaard, Beata Csatho, Ingo Sasgen, Jason Box, Toni Schenk
   link:
     url: https://www.nature.com/articles/s41467-020-19580-5 
     display: Nature Communications (2020)
@@ -523,13 +523,13 @@
 - title: "Permafrost stores a globally significant amount of mercury"
   image: pf_mercury.jpg
   description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, the atmosphere, and ocean combined.
-  authors: Paul Schuster, Kevin Schaefer, George Aiken, Ronald Antweiler, John Dewild, J. Gryziec, A. Gusmeroli, G. Hugelius, E. Jafarov, D. Krabbenhoft, Lin Liu, N. Herman-Mercer, C. Mu, D. Roth, T. Schaefer, R. Striegl, K. Wickland, Tingjun Zhang
+  authors: Paul Schuster, Kevin Schaefer, George Aiken, Ronald Antweiler, John Dewild, Joshua Gryziec, A. Gusmeroli, G. Hugelius, E. Jafarov, D. Krabbenhoft, Lin Liu, N. Herman-Mercer, C. Mu, D. Roth, T. Schaefer, R. Striegl, K. Wickland, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2017GL075571 
     display: Geophysical Research Letters (2018)
   highlight: 1
   highlight_display: Schuster et al., GRL 2018
-  #news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
+  news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
   news2: AGU <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > Highlight Article </a>
 
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
@@ -675,7 +675,7 @@
 - title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
   image: abbas_nclim.jpg
   description: "We discovered that the last remaining stable portion of the Greenland ice sheet was stable no more."
-  authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana Muresan
+  authors: Shfaqat Abbas Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana Muresan
   link:
     url: https://www.nature.com/articles/nclimate2161
     display: Nature Climate Change (2014)
@@ -714,7 +714,7 @@
 - title: The use of GPS horizontals for loading studies, with applications to northern California and southeast Greenland
   image: dummy.png
   description:
-  authors: John Wahr, Shfaqat A. Khan, Tonie van Dam, Lin Liu, Jan van Angelen, Michiel van den Broeke, Charles Meertens
+  authors: John Wahr, Shfaqat Abbas Khan, Tonie van Dam, Lin Liu, Jan van Angelen, Michiel van den Broeke, Charles Meertens
   link:
     url: https://doi.org/10.1002/jgrb.50104 
     display: "Journal of Geophysical Research: Solid Earth (2013)"
@@ -723,7 +723,7 @@
 - title: Vertical and horizontal surface displacements near Jakobshavn Isbræ driven by melt-induced and dynamic ice loss
   image: dummy.png
   description:
-  authors: Karina Nielsen, Shfaqat A. Khan, Giorgio Spada, John Wahr, Michael Bevis, Lin Liu, Tonie van Dam
+  authors: Karina Nielsen, Shfaqat Abbas Khan, Giorgio Spada, John Wahr, Michael Bevis, Lin Liu, Tonie van Dam
   link:
     url: https://doi.org/10.1002/jgrb.50145 
     display: "Journal of Geophysical Research: Solid Earth (2013)"
