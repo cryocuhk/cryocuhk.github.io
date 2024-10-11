@@ -19,7 +19,7 @@
   highlight: 1
   highlight_display: Zhuoxuan Xia et al., GRL 2024
 
-- title: "Combined Use of Multi-source Satellite Imagery and Deep Learning for Automated Mapping of Glacial Lakes in the Bhutan Himalaya"
+- title: "Combined use of multi-source satellite imagery and deep learning for automated mapping of glacial lakes in the Bhutan Himalaya"
   image: dummy.png 
   description: ""
   authors: Xingyu Xu, Lin Liu, Lingcao Huang, Yan Hu 
@@ -35,7 +35,7 @@
     url:   https://doi.org/10.1016/j.rse.2024.114413
     display: Remote Sensing of Environment (2024)
 
-- title: "Advances in InSAR Analysis of Permafrost Terrain"
+- title: "Advances in InSAR analysis of permafrost terrain"
   image: dummy.png 
   description: ""
   authors: Simon Zwieback, Lin Liu, Line Rouyet, Naomi Short, Tazio Strozzi
@@ -52,7 +52,7 @@
     display: GNSS Monitoring of the Terrestrial Environment (2024)
   highlight: 0
 
-- title: "Remote Sensing and Modeling of the Cryosphere in High Mountain Asia: A Multidisciplinary Review"
+- title: "Remote sensing and modeling of the cryosphere in High Mountain Asia: A multidisciplinary review"
   image: dummy.png 
   description: ""
   authors: Qinghua Ye, Yuzhe Wang, Lin Liu, Linan Guo, Xueqin Zhang, Liyun Dai, Limin Zhai, Yafan Hu, Nauman Ali, Xinhui Ji, Youhua Ran, Yubao Qiu, Lijuan Shi, Tao Che, Ninglian Wang, Xin Li, Liping Zhu
@@ -75,8 +75,8 @@
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
   description: ""
-  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, 
-# Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
+  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu
+  #, Dingmei Chen, Jun Ding, Yulong Zhong
   #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   link:
     url: https://doi.org/10.1016/j.scitotenv.2023.168342
@@ -522,7 +522,7 @@
 
 - title: "Permafrost stores a globally significant amount of mercury"
   image: pf_mercury.jpg
-  description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, the atmosphere, and ocean combined.
+  description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, atmosphere, ocean combined.
   authors: Paul Schuster, Kevin Schaefer, George Aiken, Ronald Antweiler, John Dewild, Joshua Gryziec, Alessio Gusmeroli, Gustaf Hugelius, Elchin Jafarov, David Krabbenhoft, Lin Liu, Nicole Herman-Mercer, Cuicui Mu, David Roth, Tim Schaefer, Robert Striegl, Kimberly Wickland, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2017GL075571 
