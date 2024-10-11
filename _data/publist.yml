@@ -390,13 +390,13 @@
 
 - title: "Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach"
   image: dummy.png
-  image: dummy.png 
-  description: ""
+  description: "AI detects glacial front from remote sensing big data."
   authors: Enze Zhang, Lin Liu, Lingcao Huang
   link:
     url: https://doi.org/10.5194/tc-13-1729-2019
     display: The Cryosphere (2019)
-  highlight: 0
+  highlight: 1
+  highlight_display: Zhang, Liu, Huang, TC 2019
   incdata: 1
   dataurl: https://doi.org/10.1594/PANGAEA.897064
 
@@ -675,7 +675,8 @@
   link:
     url: https://www.nature.com/articles/nclimate2161
     display: Nature Climate Change (2014)
-#  highlight: 1
+  highlight: 1
+  highlight_display: Khan et al., Nature Climate Change
   news1: 
 
 - title: Carbon and geochemical properties of cryosols on the North Slope of Alaska
