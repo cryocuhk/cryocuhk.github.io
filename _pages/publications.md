@@ -42,7 +42,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
