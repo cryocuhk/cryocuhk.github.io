@@ -1,12 +1,10 @@
 - title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
   image: dummy.jpg 
-  description: Deep learning reveals prominent increase in thaw slump numbers and areas due to thawing of permafrost. 
-  authors: Zhuoxuan Xia, Lin Liu, Cuicui Mu, Xiaoqing Peng, Zhuoyi Zhao, Lingcao Huang, Jing Luo, Chengyan Fan
+  description: 
+  authors: Jiangjun Ran, Lin Liu, Cuicui Mu, Xiaoqing Peng, Zhuoyi Zhao, Lingcao Huang, Jing Luo, Chengyan Fan
   link:
-    url:   https://doi.org/10.1029/2024GL109616
+    url:   https://doi.org/10.1038/s41586-024-08096-3
     display: Nature (in press)
-  incdata: 1
-  dataurl: https://doi.org/10.5281/zenodo.10928346
 #  highlight: 1
 
 - title: "Widespread and rapid activities of retrogressive thaw slumps on the Qinghai‐Tibet Plateau from 2016 to 2022"
