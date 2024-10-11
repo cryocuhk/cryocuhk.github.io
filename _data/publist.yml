@@ -1,6 +1,6 @@
 - title: "Widespread and rapid activities of retrogressive thaw slumps on the Qinghai‐Tibet Plateau from 2016 to 2022"
   image: rts_madoi.jpg 
-  description: ""
+  description: Deep learning reveals prominent increase in thaw slump numbers and areas due to thawing of permafrost. 
   authors: Zhuoxuan Xia, Lin Liu, Cuicui Mu, Xiaoqing Peng, Zhuoyi Zhao, Lingcao Huang, Jing Luo, Chengyan Fan
   link:
     url:   https://doi.org/10.1029/2024GL109616
@@ -52,14 +52,14 @@
 
 - title: "TPRoGI: a comprehensive rock glacier inventory for the Tibetan Plateau using deep learning"
   image: dummy.png 
-  description: ""
+  description: The very first, comprehensive inventory of rock glaciers over the Tibetan Plateau 
   authors: Zhangyu Sun, Yan Hu, Adina Racoviteanu, Lin Liu, Stephan Harrison, Xiaowen Wang, Jiaxin Cai, Xin Guo, Yujun He, Hailun Yuan
   link:
     url:   https://doi.org/10.5194/essd-2024-28
-    display: Earth System Science Data  (open discussion)
+    display: Earth System Science Data (2024)
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10732042
-  highlight: 1
+#  highlight: 1
 
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
@@ -513,8 +513,8 @@
     url: https://doi.org/10.1002/2017GL075571 
     display: Geophysical Research Letters (2018)
   highlight: 1
-  news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
-  news2: AGU <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > Highlight Article </a>
+  #news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
+  news1: AGU <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > Highlight Article </a>
 
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
   image: dummy.png
@@ -594,7 +594,6 @@
 - title: Remote sensing measurements of thermokarst subsidence Using InSAR
   image: dummy.png
   description:
-    ADD Description
   authors:
     Lin Liu, Kevin Schaefer, Albert Chen, Alessio Gusmeroli, Howard Zebker, Tingjun Zhang
   link:
@@ -663,7 +662,7 @@
   link:
     url: https://www.nature.com/articles/nclimate2161
     display: Nature Climate Change (2014)
-  highlight: 1
+#  highlight: 1
   news1: 
 
 - title: Carbon and geochemical properties of cryosols on the North Slope of Alaska
