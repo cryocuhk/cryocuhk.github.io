@@ -74,7 +74,8 @@
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
   description: ""
-  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
+  authors: Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
+  #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   link:
     url: https://doi.org/10.1016/j.scitotenv.2023.168342
     display: Science of The Total Environment (2024)
@@ -381,7 +382,7 @@
 - title: "GPS observed horizontal ground extension at the Hutubi (China) underground gas storage facility and its application to geomechanical modeling for induced seismicity"
   image: dummy.png
   description: ""
-  authors: Guoyan Jiang, Xuejun Qiao, Xiaoqiang Wang, Renqi Lu, Lin Liu, Hongfeng Yang, Yuanda Su, Lili Song, Baoshan Wang, and Teng-fong Wong
+  authors: Guoyan Jiang, Xuejun Qiao, Xiaoqiang Wang, Renqi Lu, Lin Liu, Hongfeng Yang, Yuanda Su, Lili Song, Baoshan Wang, Teng-fong Wong
   link:
     url: https://doi.org/10.1016/j.epsl.2019.115943
     display: Earth and Planetary Science Letters (2020)
@@ -439,7 +440,7 @@
 - title: "Inference of the impact of wildfire on permafrost and active layer thickness in a discontinuous permafrost region using the remotely sensed active layer thickness (ReSALT) algorithm"
   image: dummy.png 
   description: ""
-  authors: Roger Michaelides, Kevin Schaefer, Howard Zebker, Andrew Parsekian, Lin Liu, Jingyi Chen, Susan M Natali, Sarah Ludwig, and Sean Schaefer
+  authors: Roger Michaelides, Kevin Schaefer, Howard Zebker, Andrew Parsekian, Lin Liu, Jingyi Chen, Susan M Natali, Sarah Ludwig, Sean Schaefer
   link:
     url: http://iopscience.iop.org/article/10.1088/1748-9326/aaf932
     display: Environmental Research Letters (2019)
@@ -483,7 +484,7 @@
 - title: "Geodetic measurements reveal short-term changes of glacial mass near Jakobshavn Isbræ (Greenland) from 2007 to 2017"
   image: dummy.png
   description: ""
-  authors: Bao Zhang, Enze Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Yibin Yao, Michael Bevis, and Veit Helm
+  authors: Bao Zhang, Enze Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Yibin Yao, Michael Bevis, Veit Helm
   link:
     url: https://doi.org/10.1016/j.epsl.2018.09.029
     display: Earth and Planetary Science Letters (2018)
@@ -492,7 +493,7 @@
 - title: "Seasonal mass variations show timing and magnitude of meltwater storage in the Greenland Ice Sheet"
   image: dummy.png
   description: ""
-  authors: Jiangjun Ran, Miren Vizcaino, Pavel Ditmar, Michiel van den Broeke, Twila Moon, Christian Steger, Ellyn Enderlin, Bert Wouters, Brice Noël, Catharina Reijmer, Roland Klees, Min Zhong, Lin Liu, and Xavier Fettweis
+  authors: Jiangjun Ran, Miren Vizcaino, Pavel Ditmar, Michiel van den Broeke, Twila Moon, Christian Steger, Ellyn Enderlin, Bert Wouters, Brice Noël, Catharina Reijmer, Roland Klees, Min Zhong, Lin Liu, Xavier Fettweis
   link:
     url: https://www.the-cryosphere.net/12/2981/2018/
     display:  The Cryosphere (2018)
@@ -531,7 +532,7 @@
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
   image: dummy.png
   description: ""
-  authors: Zhenming Wu, Lin Zhao, Lin Liu, Rui Zhu, Zeshen Gao, Yongping Qiao, Liming Tian, Huayun Zhou, and Meizhen Xie
+  authors: Zhenming Wu, Lin Zhao, Lin Liu, Rui Zhu, Zeshen Gao, Yongping Qiao, Liming Tian, Huayun Zhou, Meizhen Xie
   link:
     url: http://www.scar.ac.cn/fulltext/2018/2/20180203.htm
     display: Sciences in Cold and Arid Regions (2018)
@@ -540,7 +541,7 @@
 - title: "Estimating active layer thickness and volumetric water content from ground penetrating radar measurements in Barrow, Alaska"
   image: dummy.png
   description: ""
-  authors: Elchin Jafarov, Andrew Parsekian, Kevin Schaefer, Lin Liu, Albert Chen, Santosh Panda, and Tingjun Zhang
+  authors: Elchin Jafarov, Andrew Parsekian, Kevin Schaefer, Lin Liu, Albert Chen, Santosh Panda, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/gdj3.49
     display: Geoscience Data Journal (2018)
