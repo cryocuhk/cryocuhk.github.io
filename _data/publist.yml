@@ -105,7 +105,7 @@
   link:
     url: https://doi.org/10.5194/tc-17-2305-2023
     display: The Cryosphere (2023)
-  highlight: 0
+  highlight: 1
 
 - title: "Investigating the seasonal dynamics of surface water over the Qinghai-Tibet Plateau using Sentinel-1 imagery and a novel gated multiscale ConvNet"
   image: dummy.png 
@@ -176,7 +176,8 @@
   link:
     url: https://doi.org/10.1016/j.rse.2021.112778
     display: Remote Sensing of Environment (2022) 
-  highlight: 0
+  highlight: 1
+  highlight_display: Jie Chen et al., RSE 2022
 
 - title: "A review of Deep Learning for Cryospheric Studies"
   image: dummy.png 
@@ -389,14 +390,14 @@
   incdata: 0
 
 - title: "Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach"
-  image: dummy.png
-  description: "AI detects glacial front from remote sensing big data."
+  image: dl_calving 
+  description: "AI draws glacial front from remote sensing big data."
   authors: Enze Zhang, Lin Liu, Lingcao Huang
   link:
     url: https://doi.org/10.5194/tc-13-1729-2019
     display: The Cryosphere (2019)
   highlight: 1
-  highlight_display: Zhang, Liu, Huang, TC 2019
+  highlight_display: Enze Zhang et al., TC 2019
   incdata: 1
   dataurl: https://doi.org/10.1594/PANGAEA.897064
 
