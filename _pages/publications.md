@@ -15,14 +15,14 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-5 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/publication/{{ publi.image }}" class="img-responsive" width="60%" style="float: top" />
@@ -42,7 +42,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
