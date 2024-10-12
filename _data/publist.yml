@@ -575,14 +575,14 @@
   highlight: 0
 
 - title: Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry
-  image: dummy.jpg
-  description:
+  image: tianshan_arg.jpg
+  description: "Modern radar remote sensing revived investigations of widespread rock glaciers in China."
   authors:
    Xiaowen Wang, Lin Liu, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu
   link:
     url: https://www.the-cryosphere.net/11/997/2017/tc-11-997-2017.html
     display: The Cryosphere (2017)
-  highlight: 0
+  highlight: 1
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.874616
 
