@@ -101,15 +101,15 @@ permalink: /team/
 
 ## Alumni
 **Graduate Students**<br />
-Xingyu (Carol) Xu, PhD student 2019-23, now Postdoc at CUHK <br />
-Billy Ho Ming Tsang, MPhil student 2020-22, now PhD student at University of Hong Kong <br />
-Yan Hu, PhD student 2017-21, now Postdoc at University of Fribourg <br />
-Jiahua Zhang, PhD student 2017-21, now Project Scientist at University Corporation for Atmospheric Research (UCAR) <br />
-Xiyu Xu, PhD student 2015-21, now Researcher at Chongqing Forestry Research Institute <br />
-Enze Zhang, PhD student 2016-20, now Postdoc at Hong Kong University of Science and Technology <br />
-Lingcao Huang, PhD student 2016-19, now Research Assistant Professor at CUHK <br />
-Jie Chen, PhD student 2015-19, now Postdoc at University of Alaska Fairbanks <br />
-Joseph Ma Ho Yin, MPhil student 2014-16, PhD at National University of Singapore, now Principal Scientist at Halliburton <br />
+Xingyu (Carol) Xu, PhD and HKPFS recipient 2019-23, now Postdoc at CUHK <br />
+Billy Ho Ming Tsang, MPhil 2020-22, now PhD student at University of Hong Kong <br />
+Yan Hu, PhD and HKPFS recipient 2017-21, now Postdoc at University of Fribourg <br />
+Jiahua Zhang, PhD 2017-21, now Project Scientist at University Corporation for Atmospheric Research (UCAR) <br />
+Xiyu Xu, PhD 2015-21, now Researcher at Chongqing Forestry Research Institute <br />
+Enze Zhang, PhD 2016-20, now Postdoc at Hong Kong University of Science and Technology <br />
+Lingcao Huang, PhD 2016-19, now Research Assistant Professor at CUHK <br />
+Jie Chen, PhD  2015-19 (co-supervised with Hui Lin), now Postdoc at University of Alaska Fairbanks <br />
+Joseph Ma Ho Yin, MPhil 2014-16, later PhD at National University of Singapore, now Principal Scientist at Halliburton <br />
 
 **Postdocs**<br />
 Zhuoyi (Joey) Zhao, 2022-24, now Postdoc at University of Colorado Boulder  <br />
