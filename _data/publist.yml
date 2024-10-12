@@ -75,7 +75,7 @@
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
   description: ""
-  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen
+  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong 
   #, Dingmei Chen, Jun Ding, Yulong Zhong
   #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   link:
@@ -85,7 +85,7 @@
   dataurl: https://doi.org/10.5281/zenodo.8424857
   highlight: 0
 
-- title: "Mapping and Characterizing Rock Glaciers in the Arid Western Kunlun Mountains Supported by InSAR and Deep Learning"
+- title: "Mapping and characterizing rock glaciers in the arid Western Kunlun Mountains supported by InSAR and deep learning"
   image: dummy.png 
   description: ""
   authors: Yan Hu, Lin Liu, Lingcao Huang, Lin Zhao, Tonghua Wu, Xiaowen Wang, Jiaxin Cai
@@ -401,7 +401,7 @@
     url: https://doi.org/10.5194/tc-13-1729-2019
     display: The Cryosphere (2019)
   highlight: 0
-  highlight_display: Enze Zhang et al., TC 2019
+  #highlight_display: Enze Zhang et al., TC 2019
   incdata: 1
   dataurl: https://doi.org/10.1594/PANGAEA.897064
 
@@ -576,13 +576,14 @@
 
 - title: Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry
   image: tianshan_arg.jpg
-  description: "Modern radar remote sensing revived investigations of widespread rock glaciers in China."
+  description: "Modern radar remote sensing revived investigations of widespread but forgotten rock glaciers in China."
   authors:
    Xiaowen Wang, Lin Liu, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu
   link:
     url: https://www.the-cryosphere.net/11/997/2017/tc-11-997-2017.html
     display: The Cryosphere (2017)
   highlight: 1
+  highlight_display: Xiaowen Wang et al., TC 2017
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.874616
 
