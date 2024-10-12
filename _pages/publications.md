@@ -26,7 +26,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/publication/{{ publi.image }}" class="img-responsive" width="60%" style="float: top" />
-  <p>{{ publi.description }}</p>
+  <p> <em> {{ publi.description }} </em> </p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.highlight_display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
