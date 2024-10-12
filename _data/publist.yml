@@ -75,7 +75,7 @@
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
   description: ""
-  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu
+  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen
   #, Dingmei Chen, Jun Ding, Yulong Zhong
   #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   link:
@@ -179,7 +179,7 @@
   link:
     url: https://doi.org/10.1016/j.rse.2021.112778
     display: Remote Sensing of Environment (2022) 
-  highlight: 1
+  highlight: 0
   highlight_display: Jie Chen et al., RSE 2022
 
 - title: "A review of Deep Learning for Cryospheric Studies"
@@ -296,13 +296,14 @@
   incdata: 0
 
 - title: "An automated, generalized, deep-learning-based method for delineating the calving fronts of Greenland glaciers from multi-sensor remote sensing imagery"
-  image: dummy.png 
-  description: ""
+  image: dl_calving.jpg 
+  description: "AI draws glacial front from remote sensing big data."
   authors: Enze Zhang, Lin Liu, Lingcao Huang, Ka Shing Ng
   link:
     url: https://doi.org/10.1016/j.rse.2020.112265
     display: Remote Sensing of Environment (2021)
-  highlight: 0
+  highlight: 1
+  highlight_display: Enze Zhang et al., RSE 2021
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.923272
   inccode: 1
@@ -399,7 +400,7 @@
   link:
     url: https://doi.org/10.5194/tc-13-1729-2019
     display: The Cryosphere (2019)
-  highlight: 1
+  highlight: 0
   highlight_display: Enze Zhang et al., TC 2019
   incdata: 1
   dataurl: https://doi.org/10.1594/PANGAEA.897064
