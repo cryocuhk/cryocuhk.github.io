@@ -154,7 +154,7 @@
     display: Geophysical Research Letters (2022)
   highlight: 0
 
-- title: "Earth Observation to Investigate Occurrence, Characteristics and Changes of Glaciers, Glacial Lakes and Rock Glaciers in the Poiqu River Basin (Central Himalaya)"
+- title: "Earth observation to investigate occurrence, characteristics and changes of glaciers, glacial lakes and rock glaciers in the Poiqu River Basin (Central Himalaya)"
   image: dummy.png 
   description: ""
   authors: Tobias Bolch, Tandong Yao, Atanu Bhattacharya, Yan Hu, Owen King, Lin Liu, Jan Pronk, Philipp Rastner, Guoqing Zhang 
@@ -182,7 +182,7 @@
   highlight: 0
   highlight_display: Jie Chen et al., RSE 2022
 
-- title: "A review of Deep Learning for Cryospheric Studies"
+- title: "A review of deep learning for cryospheric studies"
   image: dummy.png 
   description: ""
   authors: Lin Liu
@@ -248,7 +248,7 @@
     display: "Earth and Space Science (2021)"
   highlight: 0
 
-- title: "Permafrost Dynamics Observatory (PDO) – Part I: Postprocessing and Calibration Methods of UAVSAR L-band InSAR Data for Seasonal Subsidence Estimation"
+- title: "Permafrost Dynamics Observatory (PDO) – Part I: Postprocessing and calibration methods of UAVSAR L-band InSAR data for seasonal subsidence estimation"
   image: dummy.png 
   description: ""
   authors: Roger Michaelides, Richard Chen, Yuhuan Zhao, Kevin Schaefer, Andrew Parsekian, Taylor Sullivan, Mahta Moghaddam, Howard Zebker, Lin Liu, Xingyu Xu, Jingyi Chen
@@ -322,7 +322,7 @@
   dataurl: https://doi.org/10.5281/zenodo.4319372
   highlight: 0
 
-- title: "LaeNet: A Novel Lightweight Multitask CNN for Automatically Extracting Lake Area and Shoreline from Remote Sensing Images"
+- title: "LaeNet: A novel lightweight multitask CNN for automatically extracting lake area and shoreline from remote sensing images"
   image: dummy.png 
   description: ""
   authors: Wei Liu, Xingyu Chen, Jiangjun Ran, Lin Liu, Qiang Wang, Linyang Xin, Gang Li
@@ -481,7 +481,7 @@
     display: The Cryosphere (2018)
   highlight: 1
   highlight_display: Liu and Larson, TC 2018
-  news2: UNAVCO <a href="https://www.unavco.org/science/snapshots/cryosphere/2019/liu.html" > Science Snapshots </a>
+  #news2: UNAVCO <a href="https://www.unavco.org/science/snapshots/cryosphere/2019/liu.html" > Science Snapshots </a>
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.885935
 
@@ -632,7 +632,7 @@
   highlight: 0
   news: 
 
-- title: Remotely Sensed Active Layer Thickness (ReSALT) at Barrow, Alaska Using Interferometric Synthetic Aperture Radar
+- title: Remotely Sensed Active Layer Thickness (ReSALT) at Barrow, Alaska using Interferometric Synthetic Aperture Radar
   image: dummy.png
   description:
   authors:
