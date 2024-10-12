@@ -136,7 +136,7 @@ Linyang Xin, 2019, now PhD student at Southern University of Science and Technol
 Yidan Ding and Haoran Wang, 2019, master students at Jilin University <br />
 Weifan Zhou, 2018, master student at Jilin University <br />
 Zhenming Wu, 2017, later PhD student at Reading University <br />
-Jiahui Wang, 2017, PhD at Southern Methodist University <br />
+Jiahui Wang, 2017, later PhD at Southern Methodist University <br />
 Yongxin Liu, 2017, undergraduate student at Wuhan University <br />
 Wanwan Shao, 2016-17, PhD at Lanzhou University <br />
 Weiyu Zheng, 2015, later PhD at Southern Methodist University <br />
