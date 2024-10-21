@@ -10,6 +10,18 @@
   highlight: 1
   highlight_display: Zhuoxuan Xia et al., GRL 2024
 
+- title: "TPRoGI: a comprehensive rock glacier inventory for the Tibetan Plateau using deep learning"
+  image: dummy.png 
+  description: The very first, comprehensive inventory of rock glaciers over the Tibetan Plateau 
+  authors: Zhangyu Sun, Yan Hu, Adina Racoviteanu, Lin Liu, Stephan Harrison, Xiaowen Wang, Jiaxin Cai, Xin Guo, Yujun He, Hailun Yuan
+  link:
+    url:   https://doi.org/10.5194/essd-2024-28
+    display: Earth System Science Data (2024)
+  incdata: 1
+  dataurl: https://doi.org/10.5281/zenodo.10732042
+#  highlight: 1
+#  highlight_display: Zhangyu Sun et al., ESSD 2024
+
 - title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
   image: greenland_diagram.jpg 
   description: 
@@ -60,18 +72,6 @@
   link:
     url:   https://www.mdpi.com/2072-4292/16/10/1709
     display: Remote Sensing (2024)
-
-- title: "TPRoGI: a comprehensive rock glacier inventory for the Tibetan Plateau using deep learning"
-  image: dummy.png 
-  description: The very first, comprehensive inventory of rock glaciers over the Tibetan Plateau 
-  authors: Zhangyu Sun, Yan Hu, Adina Racoviteanu, Lin Liu, Stephan Harrison, Xiaowen Wang, Jiaxin Cai, Xin Guo, Yujun He, Hailun Yuan
-  link:
-    url:   https://doi.org/10.5194/essd-2024-28
-    display: Earth System Science Data (2024)
-  incdata: 1
-  dataurl: https://doi.org/10.5281/zenodo.10732042
-#  highlight: 1
-#  highlight_display: Zhangyu Sun et al., ESSD 2024
 
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
