@@ -32,16 +32,6 @@
 #  highlight: 1
 #  highlight_display: Zhangyu Sun et al., ESSD 2024
 
-- title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
-  image: greenland_diagram.jpg 
-  description: 
-  authors: Jiangjun Ran, Pavel Ditmar, Michiel van den Broeke, Lin Liu, Roland Klees, Shfaqat Abbas Khan, Twila Moon, Jiancheng Li, Michael Bevis, Min Zhong, Xavier Fettweis, Junguo Liu, Brice Noël, C.K. Shum, Jianli Chen, Liming Jiang, Tonie van Dam   
-  link:
-    url:   https://doi.org/10.1038/s41586-024-08096-3
-    display: Nature (in press)
-#  highlight: 1
-  highlight_display: Jiangjun Ran et al., Nature 2024
-
 - title: "Combined use of multi-source satellite imagery and deep learning for automated mapping of glacial lakes in the Bhutan Himalaya"
   image: dummy.png 
   description: ""
