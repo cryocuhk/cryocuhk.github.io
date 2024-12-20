@@ -33,12 +33,12 @@
   description: The very first, comprehensive inventory of rock glaciers over the Tibetan Plateau 
   authors: Zhangyu Sun, Yan Hu, Adina Racoviteanu, Lin Liu, Stephan Harrison, Xiaowen Wang, Jiaxin Cai, Xin Guo, Yujun He, Hailun Yuan
   link:
-    url:   https://doi.org/10.5194/essd-16-5703-2024
+    url:   https://doi.org/10.5194/essd-2024-28
     display: Earth System Science Data (2024)
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10732042
-  highlight: 1
-  highlight_display: Zhangyu Sun et al., ESSD 2024
+#  highlight: 1
+#  highlight_display: Zhangyu Sun et al., ESSD 2024
 
 - title: "Combined use of multi-source satellite imagery and deep learning for automated mapping of glacial lakes in the Bhutan Himalaya"
   image: dummy.png 
