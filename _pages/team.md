@@ -124,7 +124,7 @@ Bo Hu, 2015, now faculty at Guangdong University of Technology <br />
 Chengyan (Fancy) Fan, 2023-24, now PhD student at Lanzhou University <br />
 Yufeng Hu, 2017-18, now Associate Professor at Chang'an University <br />
 Kenneth Ho Ngai Lun, 2017-18, now Master Student at University of Southampton <br />
-Xiaowen Wang, 2016-17, now Associate Professor at Southwest Jiaotong University <br />
+<a href="https://goimage.cn/">Xiaowen Wang</a>, 2016-17, now Associate Professor at Southwest Jiaotong University <br />
 
 **Undergraduate Students (Final-year Project Advisees)**<br />
 Yue Wu, 2017, later  PhD student at University of Texas at Austin <br />
