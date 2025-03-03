@@ -8,9 +8,10 @@
   inccode: 1
   code:
     url:  https://github.com/Fanchengyan/FanInSAR
+    display: Code "FanInSAR" (Written and maintained by Chengyan Fan)
   highlight: 0
 
-- title: "Rock Glacier Velocity: An Essential Climate Variable Quantity for Permafrost"
+- title: "Rock Glacier Velocity: An Essential Climate Variable quantity for permafrost"
   image: dummy.png
   description: 
   authors: Yan Hu, Lukas U. Arenson, Chloé Barboux, Xavier Bodin, Alessandro Cicoira, Reynald Delaloye, Isabelle Gärtner-Roer, Andreas Kääb, Andreas Kellerer-Pirklbauer, Christophe Lambiel, Lin Liu, Cécile Pellet, Line Rouyet, Philippe Schoeneich, Gernot Seier, Tazio Strozzi
@@ -132,8 +133,6 @@
   image: dummy.png 
   description: ""
   authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong 
-  #, Dingmei Chen, Jun Ding, Yulong Zhong
-  #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   link:
     url: https://doi.org/10.1016/j.scitotenv.2023.168342
     display: Science of The Total Environment (2024)

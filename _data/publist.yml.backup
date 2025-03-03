@@ -1,14 +1,83 @@
-- title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
-  image: dummy.png 
-  description: ""
-  authors: Jiangjun Ran, Pavel Ditmar, Michiel R. van den Broeke, Lin Liu, Roland Klees, Shfaqat Abbas Khan, Twila Moon, Jiancheng Li, Michael Bevis, Min Zhong, Xavier Fettweis, Junguo Liu, Brice Noël, C. K. Shum, Jianli Chen, Liming Jiang, Tonie van Dam
+- title: "Time-Series models for ground subsidence and heave over permafrost in InSAR Processing: A comprehensive assessment and new improvement"
+  image: dummy.png
+  description: 
+  authors: Chengyan Fan, Cuicui Mu, Lin Liu, Tingjun Zhang, Shichao Jia, Shengdi Wang, Wen Sun, Zhuoyi Zhao
   link:
-    url:   https://doi.org/10.1029/2024GL109616
-    display: Nature (in press)
+    url:   https://doi.org/10.1016/j.isprsjprs.2025.02.019
+    display: ISPRS Journal of Photogrammetry and Remote Sensing (2025)
+  inccode: 1
+  code:
+    url:  https://github.com/Fanchengyan/FanInSAR
+  highlight: 0
+
+- title: "Rock Glacier Velocity: An Essential Climate Variable Quantity for Permafrost"
+  image: dummy.png
+  description: 
+  authors: Yan Hu, Lukas U. Arenson, Chloé Barboux, Xavier Bodin, Alessandro Cicoira, Reynald Delaloye, Isabelle Gärtner-Roer, Andreas Kääb, Andreas Kellerer-Pirklbauer, Christophe Lambiel, Lin Liu, Cécile Pellet, Line Rouyet, Philippe Schoeneich, Gernot Seier, Tazio Strozzi
+  link:
+    url:   https://doi.org/10.1029/2024RG000847 
+    display: Review of Geophysics (2025)
+  highlight: 0
+
+- title: "Improved ALT retrieval in the Yellow River source region using time-series InSAR and multilayer soil moisture modeling"
+  image: dummy.png
+  description: 
+  authors: Zhengjia Zhang, Qingguang Jin, Lin Liu, Mengmeng Wang, Xuefei Zhang
+  link:
+    url:   https://doi.org/10.1016/j.jhydrol.2025.132847
+    display: Journal of Hydrology (2025)
+  highlight: 0
+
+- title: "Thawing permafrost is subsiding in the Northern Hemisphere—review and perspectives"
+  image: dummy.png
+  description: 
+  authors: Dmitry Streletskiy, Alexey Maslakov, Guido Grosse, Nikolay Shiklomanov, Louise Farquharson, Simon Zwieback, Go Iwahana, Annett Bartsch, Lin Liu, Tazio Strozzi, Hanna Lee, Matvey Debolskiy
+  link:
+    url:   https://iopscience.iop.org/article/10.1088/1748-9326/ada2ff
+    display: Environmental Research Letters (2025)
+  highlight: 0
+
+- title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
+  image: gnet.jpg 
+  description: 
+  authors: Jiangjun Ran, Pavel Ditmar, Michiel van den Broeke, Lin Liu, Roland Klees, Shfaqat Abbas Khan, Twila Moon, Jiancheng Li, Michael Bevis, Min Zhong, Xavier Fettweis, Junguo Liu, Brice Noël, C.K. Shum, Jianli Chen, Liming Jiang, Tonie van Dam   
+  link:
+    url:   https://doi.org/10.1038/s41586-024-08096-3
+    display: Nature (2024)
+  highlight: 1
+  highlight_display: Jiangjun Ran et al., Nature 2024
+
+- title: "TPRoGI: a comprehensive rock glacier inventory for the Tibetan Plateau using deep learning"
+  image: dummy.png 
+  description: The very first, comprehensive inventory of rock glaciers over the Tibetan Plateau 
+  authors: Zhangyu Sun, Yan Hu, Adina Racoviteanu, Lin Liu, Stephan Harrison, Xiaowen Wang, Jiaxin Cai, Xin Guo, Yujun He, Hailun Yuan
+  link:
+    url:   https://doi.org/10.5194/essd-2024-28
+    display: Earth System Science Data (2024)
+  incdata: 1
+  dataurl: https://doi.org/10.5281/zenodo.10732042
+#  highlight: 1
+#  highlight_display: Zhangyu Sun et al., ESSD 2024
+
+- title: "Unraveling the non-linear relationship between seasonal deformation and permafrost active layer thickness"
+  description: 
+  authors: Tian Chang, Yonghong Yi, Huiru Jiang, Rongxing Li, Ping Lu, Lin Liu, Lingxiao Wang, Lin Zhao, Simon Zwieback, Jingyi Zhao
+  link:
+    url:  https://www.nature.com/articles/s41612-024-00866-0 
+    display: npj Climate and Atmospheric Science (2024)
+  highlight: 0
+
+- title: "Elevation-dependent shift of landslide activity in mountain permafrost regions of the Qilian Mountains"
+  description: 
+  authors: Jie Chen, Jing Zhang, Tonghua Wu, Lin Liu, Fanyu Zhang, Junming Hao, Lingcao Huang, Xiaodong Wu, Pengling Wang, Zhuoxuan Xia, Xiaofan Zhu, Peiqing Lou
+  link:
+    url:   https://doi.org/10.1016/j.accre.2024.11.003
+    display: Advances in Climate Change Research (2024)
+  highlight: 0
 
 - title: "Widespread and rapid activities of retrogressive thaw slumps on the Qinghai‐Tibet Plateau from 2016 to 2022"
-  image: dummy.png 
-  description: ""
+  image: rts_madoi.jpg 
+  description: Thawing of permafrost caused prominent increase in thaw slump numbers and areas. 
   authors: Zhuoxuan Xia, Lin Liu, Cuicui Mu, Xiaoqing Peng, Zhuoyi Zhao, Lingcao Huang, Jing Luo, Chengyan Fan
   link:
     url:   https://doi.org/10.1029/2024GL109616
@@ -16,8 +85,9 @@
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10928346
   highlight: 1
+  highlight_display: Zhuoxuan Xia et al., GRL 2024
 
-- title: "Combined Use of Multi-source Satellite Imagery and Deep Learning for Automated Mapping of Glacial Lakes in the Bhutan Himalaya"
+- title: "Combined use of multi-source satellite imagery and deep learning for automated mapping of glacial lakes in the Bhutan Himalaya"
   image: dummy.png 
   description: ""
   authors: Xingyu Xu, Lin Liu, Lingcao Huang, Yan Hu 
@@ -33,7 +103,7 @@
     url:   https://doi.org/10.1016/j.rse.2024.114413
     display: Remote Sensing of Environment (2024)
 
-- title: "Advances in InSAR Analysis of Permafrost Terrain"
+- title: "Advances in InSAR analysis of permafrost terrain"
   image: dummy.png 
   description: ""
   authors: Simon Zwieback, Lin Liu, Line Rouyet, Naomi Short, Tazio Strozzi
@@ -50,7 +120,7 @@
     display: GNSS Monitoring of the Terrestrial Environment (2024)
   highlight: 0
 
-- title: "Remote Sensing and Modeling of the Cryosphere in High Mountain Asia: A Multidisciplinary Review"
+- title: "Remote sensing and modeling of the cryosphere in High Mountain Asia: A multidisciplinary review"
   image: dummy.png 
   description: ""
   authors: Qinghua Ye, Yuzhe Wang, Lin Liu, Linan Guo, Xueqin Zhang, Liyun Dai, Limin Zhai, Yafan Hu, Nauman Ali, Xinhui Ji, Youhua Ran, Yubao Qiu, Lijuan Shi, Tao Che, Ninglian Wang, Xin Li, Liping Zhu
@@ -58,21 +128,12 @@
     url:   https://www.mdpi.com/2072-4292/16/10/1709
     display: Remote Sensing (2024)
 
-- title: "TPRoGI: a comprehensive rock glacier inventory for the Tibetan Plateau using deep learning"
-  image: dummy.png 
-  description: ""
-  authors: Zhangyu Sun, Yan Hu, Adina Racoviteanu, Lin Liu, Stephan Harrison, Xiaowen Wang, Jiaxin Cai, Xin Guo, Yujun He, Hailun Yuan
-  link:
-    url:   https://doi.org/10.5194/essd-2024-28
-    display: Earth System Science Data  (open discussion)
-  incdata: 1
-  dataurl: https://doi.org/10.5281/zenodo.10732042
-
 - title: "Contrasting lake changes in Tibet revealed by recent multi-modal satellite observations"
   image: dummy.png 
   description: ""
-  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
-  #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, J. Qiu, R. Hu, J. Li, J. Peng, C. Hwang, Y. Luan, Y. Sun, M. Xu, D. Chen, J. Ding, Y. Zhong
+  authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong 
+  #, Dingmei Chen, Jun Ding, Yulong Zhong
+  #authors: Jiangjun Ran, Lin Liu, Guoqing Zhang, C.K. Shum, Jiahui Qiu, Ruigang Hu, Jianping Li, Junhuan Peng, Cheinway Hwang, Yi Luan, Yue Sun, Min Xu, Dingmei Chen, Jun Ding, Yulong Zhong
   link:
     url: https://doi.org/10.1016/j.scitotenv.2023.168342
     display: Science of The Total Environment (2024)
@@ -80,7 +141,7 @@
   dataurl: https://doi.org/10.5281/zenodo.8424857
   highlight: 0
 
-- title: "Mapping and Characterizing Rock Glaciers in the Arid Western Kunlun Mountains Supported by InSAR and Deep Learning"
+- title: "Mapping and characterizing rock glaciers in the arid Western Kunlun Mountains supported by InSAR and deep learning"
   image: dummy.png 
   description: ""
   authors: Yan Hu, Lin Liu, Lingcao Huang, Lin Zhao, Tonghua Wu, Xiaowen Wang, Jiaxin Cai
@@ -96,13 +157,14 @@
   highlight: 0
 
 - title: "Modelling rock glacier ice content based on InSAR-derived velocity, Khumbu and Lhotse valleys, Nepal"
-  image: dummy.png 
-  description: ""
+  image: rg_rhelogy.png 
+  description: "A rhelogy model constrained by surface velocity can infer ground ice burried in rock glaciers."
   authors: Yan Hu, Stephan Harrison, Lin Liu, Joanne Wood
   link:
     url: https://doi.org/10.5194/tc-17-2305-2023
     display: The Cryosphere (2023)
-  highlight: 0
+  highlight: 1
+  highlight_display: Yan Hu et al., TC 2023
 
 - title: "Investigating the seasonal dynamics of surface water over the Qinghai-Tibet Plateau using Sentinel-1 imagery and a novel gated multiscale ConvNet"
   image: dummy.png 
@@ -148,7 +210,7 @@
     display: Geophysical Research Letters (2022)
   highlight: 0
 
-- title: "Earth Observation to Investigate Occurrence, Characteristics and Changes of Glaciers, Glacial Lakes and Rock Glaciers in the Poiqu River Basin (Central Himalaya)"
+- title: "Earth observation to investigate occurrence, characteristics and changes of glaciers, glacial lakes and rock glaciers in the Poiqu River Basin (Central Himalaya)"
   image: dummy.png 
   description: ""
   authors: Tobias Bolch, Tandong Yao, Atanu Bhattacharya, Yan Hu, Owen King, Lin Liu, Jan Pronk, Philipp Rastner, Guoqing Zhang 
@@ -167,15 +229,16 @@
   highlight: 0
 
 - title: "Magnitudes and patterns of large-scale permafrost ground deformation revealed by Sentinel-1 InSAR on the central Qinghai-Tibet Plateau"
-  image: dummy.png 
+  image: jie_insar.jpg 
   description: ""
   authors: Jie Chen, Tonghua Wu, Defu Zou, Lin Liu, Xiaodong Wu, Wenyu Gong, Xiaofan Zhu, Ren Li, Junming Hao, Guojie Hu, Qiangqiang Pang, Jing Zhang, Sizhong Yang 
   link:
     url: https://doi.org/10.1016/j.rse.2021.112778
     display: Remote Sensing of Environment (2022) 
   highlight: 0
+  highlight_display: Jie Chen et al., RSE 2022
 
-- title: "A review of Deep Learning for Cryospheric Studies"
+- title: "A review of deep learning for cryospheric studies"
   image: dummy.png 
   description: ""
   authors: Lin Liu
@@ -241,7 +304,7 @@
     display: "Earth and Space Science (2021)"
   highlight: 0
 
-- title: "Permafrost Dynamics Observatory (PDO) – Part I: Postprocessing and Calibration Methods of UAVSAR L-band InSAR Data for Seasonal Subsidence Estimation"
+- title: "Permafrost Dynamics Observatory (PDO) – Part I: Postprocessing and calibration methods of UAVSAR L-band InSAR data for seasonal subsidence estimation"
   image: dummy.png 
   description: ""
   authors: Roger Michaelides, Richard Chen, Yuhuan Zhao, Kevin Schaefer, Andrew Parsekian, Taylor Sullivan, Mahta Moghaddam, Howard Zebker, Lin Liu, Xingyu Xu, Jingyi Chen
@@ -289,13 +352,14 @@
   incdata: 0
 
 - title: "An automated, generalized, deep-learning-based method for delineating the calving fronts of Greenland glaciers from multi-sensor remote sensing imagery"
-  image: dummy.png 
-  description: ""
+  image: dl_calving.jpg 
+  description: "AI draws glacial front from remote sensing big data."
   authors: Enze Zhang, Lin Liu, Lingcao Huang, Ka Shing Ng
   link:
     url: https://doi.org/10.1016/j.rse.2020.112265
     display: Remote Sensing of Environment (2021)
-  highlight: 0
+  highlight: 1
+  highlight_display: Enze Zhang et al., RSE 2021
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.923272
   inccode: 1
@@ -314,7 +378,7 @@
   dataurl: https://doi.org/10.5281/zenodo.4319372
   highlight: 0
 
-- title: "LaeNet: A Novel Lightweight Multitask CNN for Automatically Extracting Lake Area and Shoreline from Remote Sensing Images"
+- title: "LaeNet: A novel lightweight multitask CNN for automatically extracting lake area and shoreline from remote sensing images"
   image: dummy.png 
   description: ""
   authors: Wei Liu, Xingyu Chen, Jiangjun Ran, Lin Liu, Qiang Wang, Linyang Xin, Gang Li
@@ -335,7 +399,7 @@
 - title: "Centennial response of Greenland’s three largest outlet glaciers"
   image: dummy.png 
   description: ""
-  authors: Shfaqat A. Khan, Anders A. Bjørk, Jonathan Bamber, Mathieu Morlighem, Michael Bevis, Kurt Kjær, Jérémie Mouginot, Anja Løkkegaard, David Holland, Andy Aschwanden, Bao Zhang, Veit Helm, Niels Korsgaard, William Colgan, Nicolaj Larsen, Lin Liu, Karina Hansen, Valentina Barletta, Trine Dahl-Jensen, Anne Sofie Søndergaard, Beata Csatho, Ingo Sasgen, Jason Box, Toni Schenk
+  authors: Shfaqat Abbas Khan, Anders A. Bjørk, Jonathan Bamber, Mathieu Morlighem, Michael Bevis, Kurt Kjær, Jérémie Mouginot, Anja Løkkegaard, David Holland, Andy Aschwanden, Bao Zhang, Veit Helm, Niels Korsgaard, William Colgan, Nicolaj Larsen, Lin Liu, Karina Hansen, Valentina Barletta, Trine Dahl-Jensen, Anne Sofie Søndergaard, Beata Csatho, Ingo Sasgen, Jason Box, Toni Schenk
   link:
     url: https://www.nature.com/articles/s41467-020-19580-5 
     display: Nature Communications (2020)
@@ -378,7 +442,7 @@
 - title: "GPS observed horizontal ground extension at the Hutubi (China) underground gas storage facility and its application to geomechanical modeling for induced seismicity"
   image: dummy.png
   description: ""
-  authors: Guoyan Jiang, Xuejun Qiao, Xiaoqiang Wang, Renqi Lu, Lin Liu, Hongfeng Yang, Yuanda Su, Lili Song, Baoshan Wang, and Teng-fong Wong
+  authors: Guoyan Jiang, Xuejun Qiao, Xiaoqiang Wang, Renqi Lu, Lin Liu, Hongfeng Yang, Yuanda Su, Lili Song, Baoshan Wang, Teng-fong Wong
   link:
     url: https://doi.org/10.1016/j.epsl.2019.115943
     display: Earth and Planetary Science Letters (2020)
@@ -386,14 +450,14 @@
   incdata: 0
 
 - title: "Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach"
-  image: dummy.png
-  image: dummy.png 
-  description: ""
+  image: dl_calving.jpg 
+  description: "AI draws glacial front from remote sensing big data."
   authors: Enze Zhang, Lin Liu, Lingcao Huang
   link:
     url: https://doi.org/10.5194/tc-13-1729-2019
     display: The Cryosphere (2019)
   highlight: 0
+  #highlight_display: Enze Zhang et al., TC 2019
   incdata: 1
   dataurl: https://doi.org/10.1594/PANGAEA.897064
 
@@ -436,7 +500,7 @@
 - title: "Inference of the impact of wildfire on permafrost and active layer thickness in a discontinuous permafrost region using the remotely sensed active layer thickness (ReSALT) algorithm"
   image: dummy.png 
   description: ""
-  authors: Roger Michaelides, Kevin Schaefer, Howard Zebker, Andrew Parsekian, Lin Liu, Jingyi Chen, Susan M Natali, Sarah Ludwig, and Sean Schaefer
+  authors: Roger Michaelides, Kevin Schaefer, Howard Zebker, Andrew Parsekian, Lin Liu, Jingyi Chen, Susan Natali, Sarah Ludwig, Sean Schaefer
   link:
     url: http://iopscience.iop.org/article/10.1088/1748-9326/aaf932
     display: Environmental Research Letters (2019)
@@ -472,14 +536,15 @@
     url: https://www.the-cryosphere.net/12/477/2018/
     display: The Cryosphere (2018)
   highlight: 1
-  news2: UNAVCO <a href="https://www.unavco.org/science/snapshots/cryosphere/2019/liu.html" > Science Snapshots </a>
+  highlight_display: Liu and Larson, TC 2018
+  #news2: UNAVCO <a href="https://www.unavco.org/science/snapshots/cryosphere/2019/liu.html" > Science Snapshots </a>
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.885935
 
 - title: "Geodetic measurements reveal short-term changes of glacial mass near Jakobshavn Isbræ (Greenland) from 2007 to 2017"
   image: dummy.png
   description: ""
-  authors: Bao Zhang, Enze Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Yibin Yao, Michael Bevis, and Veit Helm
+  authors: Bao Zhang, Enze Zhang, Lin Liu, Shfaqat Abbas Khan, Tonie van Dam, Yibin Yao, Michael Bevis, Veit Helm
   link:
     url: https://doi.org/10.1016/j.epsl.2018.09.029
     display: Earth and Planetary Science Letters (2018)
@@ -488,7 +553,7 @@
 - title: "Seasonal mass variations show timing and magnitude of meltwater storage in the Greenland Ice Sheet"
   image: dummy.png
   description: ""
-  authors: Jiangjun Ran, Miren Vizcaino, Pavel Ditmar, Michiel van den Broeke, Twila Moon, Christian Steger, Ellyn Enderlin, Bert Wouters, Brice Noël, Catharina Reijmer, Roland Klees, Min Zhong, Lin Liu, and Xavier Fettweis
+  authors: Jiangjun Ran, Miren Vizcaino, Pavel Ditmar, Michiel van den Broeke, Twila Moon, Christian Steger, Ellyn Enderlin, Bert Wouters, Brice Noël, Catharina Reijmer, Roland Klees, Min Zhong, Lin Liu, Xavier Fettweis
   link:
     url: https://www.the-cryosphere.net/12/2981/2018/
     display:  The Cryosphere (2018)
@@ -514,19 +579,20 @@
 
 - title: "Permafrost stores a globally significant amount of mercury"
   image: pf_mercury.jpg
-  description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, the atmosphere, and ocean combined.
-  authors: Paul Schuster, K. Schaefer, G. Aiken, R. Antweiler, J. Dewild, J. Gryziec, A. Gusmeroli, G. Hugelius, E. Jafarov, D. Krabbenhoft, L. Liu, N. Herman-Mercer, C. Mu, D. Roth, T. Schaefer, R. Striegl, K. Wickland, T. Zhang
+  description: The amount of natural mercury stored in permafrost is twice as much as the rest of all soils, atmosphere, ocean combined.
+  authors: Paul Schuster, Kevin Schaefer, George Aiken, Ronald Antweiler, John Dewild, Joshua Gryziec, Alessio Gusmeroli, Gustaf Hugelius, Elchin Jafarov, David Krabbenhoft, Lin Liu, Nicole Herman-Mercer, Cuicui Mu, David Roth, Tim Schaefer, Robert Striegl, Kimberly Wickland, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2017GL075571 
     display: Geophysical Research Letters (2018)
   highlight: 1
+  highlight_display: Schuster et al., GRL 2018
   news1: In the top 5% of all research outputs scored by <a href="https://www.altmetric.com/details/32698388" > Altmetric </a>
   news2: AGU <a href="https://news.agu.org/press-release/scientists-find-massive-reserves-of-mercury-hidden-in-permafrost" > Highlight Article </a>
 
 - title: "Surface deformation monitoring in the permafrost regions over Tibetan Plateau using Sentinel-1 data"
   image: dummy.png
   description: ""
-  authors: Zhenming Wu, Lin Zhao, Lin Liu, Rui Zhu, Zeshen Gao, Yongping Qiao, Liming Tian, Huayun Zhou, and Meizhen Xie
+  authors: Zhenming Wu, Lin Zhao, Lin Liu, Rui Zhu, Zeshen Gao, Yongping Qiao, Liming Tian, Huayun Zhou, Meizhen Xie
   link:
     url: http://www.scar.ac.cn/fulltext/2018/2/20180203.htm
     display: Sciences in Cold and Arid Regions (2018)
@@ -535,7 +601,7 @@
 - title: "Estimating active layer thickness and volumetric water content from ground penetrating radar measurements in Barrow, Alaska"
   image: dummy.png
   description: ""
-  authors: Elchin Jafarov, Andrew Parsekian, Kevin Schaefer, Lin Liu, Albert Chen, Santosh Panda, and Tingjun Zhang
+  authors: Elchin Jafarov, Andrew Parsekian, Kevin Schaefer, Lin Liu, Albert Chen, Santosh Panda, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/gdj3.49
     display: Geoscience Data Journal (2018)
@@ -565,14 +631,15 @@
   highlight: 0
 
 - title: Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry
-  image: dummy.jpg
-  description:
+  image: tianshan_arg.jpg
+  description: "Modern radar remote sensing revived investigations of widespread but forgotten rock glaciers in China."
   authors:
    Xiaowen Wang, Lin Liu, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu
   link:
     url: https://www.the-cryosphere.net/11/997/2017/tc-11-997-2017.html
     display: The Cryosphere (2017)
-  highlight: 0
+  highlight: 1
+  highlight_display: Xiaowen Wang et al., TC 2017
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.874616
 
@@ -601,7 +668,6 @@
 - title: Remote sensing measurements of thermokarst subsidence Using InSAR
   image: dummy.png
   description:
-    ADD Description
   authors:
     Lin Liu, Kevin Schaefer, Albert Chen, Alessio Gusmeroli, Howard Zebker, Tingjun Zhang
   link:
@@ -622,7 +688,7 @@
   highlight: 0
   news: 
 
-- title: Remotely Sensed Active Layer Thickness (ReSALT) at Barrow, Alaska Using Interferometric Synthetic Aperture Radar
+- title: Remotely Sensed Active Layer Thickness (ReSALT) at Barrow, Alaska using Interferometric Synthetic Aperture Radar
   image: dummy.png
   description:
   authors:
@@ -645,13 +711,14 @@
   highlight: 0
 
 - title: InSAR detects increase in surface subsidence caused by an Arctic tundra fire
-  image: fire_sub.png
+  image: AnaktuvukRiverFire_web.jpg 
   description: "Wildfires promoted permafrost degradation and ground subsidence, as revealed by InSAR observations from space."
   authors: Lin Liu, Elchin Jafarov, Kevin Schaefer, Benjamin Jones, Howard Zebker, Christopher Williams, John Rogan, Tingjun Zhang
   link:
     url: https://doi.org/10.1002/2014GL060533
     display:  Geophysical Research Letters (2014)
   highlight: 1
+  highlight_display: Liu et al., GRL 2024
 
 - title: Seasonal thaw settlement at drained thermokarst lake basins, Arctic Alaska
   image: dummy.png
@@ -666,11 +733,12 @@
 - title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
   image: abbas_nclim.jpg
   description: "We discovered that the last remaining stable portion of the Greenland ice sheet was stable no more."
-  authors: Shfaqat A. Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana Muresan
+  authors: Shfaqat Abbas Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana Muresan
   link:
     url: https://www.nature.com/articles/nclimate2161
     display: Nature Climate Change (2014)
   highlight: 1
+  highlight_display: Khan et al., Nature Climate Change 2014
   news1: 
 
 - title: Carbon and geochemical properties of cryosols on the North Slope of Alaska
@@ -704,7 +772,7 @@
 - title: The use of GPS horizontals for loading studies, with applications to northern California and southeast Greenland
   image: dummy.png
   description:
-  authors: John Wahr, Shfaqat A. Khan, Tonie van Dam, Lin Liu, Jan van Angelen, Michiel van den Broeke, Charles Meertens
+  authors: John Wahr, Shfaqat Abbas Khan, Tonie van Dam, Lin Liu, Jan van Angelen, Michiel van den Broeke, Charles Meertens
   link:
     url: https://doi.org/10.1002/jgrb.50104 
     display: "Journal of Geophysical Research: Solid Earth (2013)"
@@ -713,7 +781,7 @@
 - title: Vertical and horizontal surface displacements near Jakobshavn Isbræ driven by melt-induced and dynamic ice loss
   image: dummy.png
   description:
-  authors: Karina Nielsen, Shfaqat A. Khan, Giorgio Spada, John Wahr, Michael Bevis, Lin Liu, Tonie van Dam
+  authors: Karina Nielsen, Shfaqat Abbas Khan, Giorgio Spada, John Wahr, Michael Bevis, Lin Liu, Tonie van Dam
   link:
     url: https://doi.org/10.1002/jgrb.50145 
     display: "Journal of Geophysical Research: Solid Earth (2013)"
