@@ -1,3 +1,12 @@
+- title: "Ground surface deformation in permafrost region on the Qinghai-Tibet Plateau: A review"
+  image: dummy.png
+  description: 
+  authors: Shibo Liu, Lin Zhao, Lingxiao Wang, Lin Liu, Defu Zou, Guojie Hu, Zhe Sun, Yuxin Zhang, Wei Chen, Xueying Wang, Meng Wang, Huayun Zhou, Yongping Qiao
+  link:
+    url:  https://doi.org/10.1016/j.earscirev.2025.105109
+    display: Earth-Science Reviews (2025)
+  highlight: 0
+
 - title: "Pronounced underestimation of surface deformation due to unwrapping errors over Tibetan Plateau permafrost by Sentinel‐1 InSAR: Identification and correction"
   image: dummy.png
   description: 
@@ -8,8 +17,6 @@
   inccode: 1
   code:
     url:  https://github.com/Fanchengyan/FanInSAR
-    display: Code "FanInSAR" (Written and maintained by Chengyan Fan)
-  highlight: 0
 
 - title: "Time-Series models for ground subsidence and heave over permafrost in InSAR Processing: A comprehensive assessment and new improvement"
   image: dummy.png
