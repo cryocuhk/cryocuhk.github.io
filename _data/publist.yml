@@ -17,6 +17,7 @@
   inccode: 1
   code:
     url:  https://github.com/Fanchengyan/FanInSAR
+    display: Code "FanInSAR" (Written and maintained by Chengyan Fan)
 
 - title: "Time-Series models for ground subsidence and heave over permafrost in InSAR Processing: A comprehensive assessment and new improvement"
   image: dummy.png
@@ -28,6 +29,7 @@
   inccode: 1
   code:
     url:  https://github.com/Fanchengyan/FanInSAR
+    display: Code "FanInSAR" (Written and maintained by Chengyan Fan)
 
 - title: "Rock Glacier Velocity: An Essential Climate Variable quantity for permafrost"
   image: dummy.png
@@ -54,6 +56,8 @@
   link:
     url:   https://iopscience.iop.org/article/10.1088/1748-9326/ada2ff
     display: Environmental Research Letters (2025)
+  incdata: 1
+  dataurl: https://www2.gwu.edu/~calm/data/subsidence.htm
   highlight: 0
 
 - title: "Vertical bedrock shifts reveal summer water storage in Greenland ice sheet"
