@@ -52,7 +52,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 ## List of Publications
 
-## Filter by Topic
+### Filter by Topic
 
 <input type="text" id="searchInput" placeholder="Filter by topic or keyword..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;">
 
