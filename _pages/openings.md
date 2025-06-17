@@ -8,8 +8,7 @@ permalink: /openings
 # Openings 
 
 ## PhD positions
-<!--- We have several PhD openings for the next academic year (starting August 2021). -->
-Our group takes one or two new PhD students every year.  Students in our group came from various educational backgrounds (solid-earth geophysics, geology, math, physics, remote sensing, machine learning, civil engineering, GIS, etc). Students with strong mathematics and physics background and programming skills are desirable. If you are interested in pursuing PhD degree in our group, please send an [email](mailto:liulin@cuhk.edu.hk). State what and why you are interested and attach a CV.
+Our group takes one or two new PhD students every year.  Students in our group came from various educational backgrounds (solid-earth geophysics, geology, math, physics, remote sensing, machine learning, civil engineering, electrical engineering, surveying/geomatics, GIS, etc). Students with strong mathematics and physics background and programming skills are desirable. If you are interested in pursuing PhD degree in our group, please send an [email](mailto:liulin@cuhk.edu.hk). State what and why you are interested and attach a CV.
 
 Please refer to our [postgraduate webpage](https://www.ees.cuhk.edu.hk/programme/postgraduate-programme/) for admission requirements, procedures, and deadlines.
 

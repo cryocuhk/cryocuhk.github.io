@@ -69,8 +69,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
 {% for publi in site.data.publist %}
 
-  **{{ publi.title }}** <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">**{{ publi.link.display }}**</a> {% if publi.incdata == 1 %} <br/><a href="{{ publi.dataurl }}">Data</a> {% endif %} {% if publi.inccode == 1 %} <br/><a href="{{ publi.code.url }}">{{ publi.code.display }}</a> {% endif %} 
-
+<div id="pub-list">
+{% for publi in site.data.publist %}
+  <div class="pub-entry" style="margin-bottom: 1.5em;">
+    <strong>{{ publi.title }}</strong><br />
+    <em>{{ publi.authors }}</em><br />
+    <a href="{{ publi.link.url }}"><strong>{{ publi.link.display }}</strong></a>
+    {% if publi.incdata == 1 %}<br /><a href="{{ publi.dataurl }}">Data</a>{% endif %}
+    {% if publi.inccode == 1 %}<br /><a href="{{ publi.code.url }}">{{ publi.code.display }}</a>{% endif %}
+    <div style="display:none;">{{ publi.topic }}</div>
+  </div>
 {% endfor %}
-
+</div>
