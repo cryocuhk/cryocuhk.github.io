@@ -52,30 +52,53 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 ## List of Publications
 
-<input type="text" id="searchInput" placeholder="Filter by topic or keyword..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;">
+<!-- Text search and dropdown filter -->
+<input type="text" id="searchInput" placeholder="Search title, author, or topic..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;" />
+
+<label for="topicFilter"><strong>Filter by Topic:</strong></label>
+<select id="topicFilter" style="margin-bottom: 1.5em; width: 100%; padding: 0.5em;">
+  <option value="">All Topics</option>
+  <option value="Cryosphere">Cryosphere</option>
+  <option value="Remote Sensing">Remote Sensing</option>
+  <option value="InSAR">InSAR</option>
+  <option value="Permafrost">Permafrost</option>
+</select>
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const input = document.getElementById("searchInput");
-  input.addEventListener("keyup", function () {
-    const filter = input.value.toLowerCase();
-    const listItems = document.querySelectorAll(".pub-entry");
-    listItems.forEach(function (item) {
+  const topicFilter = document.getElementById("topicFilter");
+
+  function applyFilters() {
+    const keyword = input.value.toLowerCase();
+    const selectedTopic = topicFilter.value;
+
+    document.querySelectorAll(".pub-entry").forEach(function (item) {
       const text = item.textContent.toLowerCase();
-      item.style.display = text.includes(filter) ? "" : "none";
+      const topic = item.getAttribute("data-topic");
+
+      const matchesKeyword = text.includes(keyword);
+      const matchesTopic = !selectedTopic || topic === selectedTopic;
+
+      item.style.display = matchesKeyword && matchesTopic ? "" : "none";
     });
-  });
+  }
+
+  input.addEventListener("input", applyFilters);
+  topicFilter.addEventListener("change", applyFilters);
 });
 </script>
 
+<!-- List of Publications -->
 <div id="pub-list">
 {% for publi in site.data.publist %}
-  <div class="pub-entry" style="margin-bottom: 1.5em;">
+  <div class="pub-entry" data-topic="{{ publi.topic | escape }}" style="margin-bottom: 1.5em;">
     <strong>{{ publi.title }}</strong><br />
     <em>{{ publi.authors }}</em><br />
     <a href="{{ publi.link.url }}"><strong>{{ publi.link.display }}</strong></a>
     {% if publi.incdata == 1 %}<br /><a href="{{ publi.dataurl }}">Data</a>{% endif %}
     {% if publi.inccode == 1 %}<br /><a href="{{ publi.code.url }}">{{ publi.code.display }}</a>{% endif %}
-    <div style="display:none;">{{ publi.topic }}</div>
+    <br /><span style="font-style: italic; color: #555;">Topic: {{ publi.topic }}</span>
   </div>
 {% endfor %}
 </div>
