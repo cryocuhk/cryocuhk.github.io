@@ -1,4 +1,3 @@
-
 ---
 title: "Cryosphere Lab - Publications"
 layout: gridlay
@@ -6,6 +5,7 @@ excerpt: "Cryosphere Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
+
 
 # Publications
 For a full list see [below](#list-of-publications) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en)
@@ -49,35 +49,13 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 <p> &nbsp; </p>
 
-## Filter by Topic
-
-<input type="text" id="searchInput" placeholder="Filter by topic or keyword..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;">
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const input = document.getElementById("searchInput");
-  input.addEventListener("keyup", function () {
-    const filter = input.value.toLowerCase();
-    const listItems = document.querySelectorAll(".pub-entry");
-    listItems.forEach(function (item) {
-      const text = item.textContent.toLowerCase();
-      item.style.display = text.includes(filter) ? "" : "none";
-    });
-  });
-});
-</script>
 
 ## List of Publications
 
-<div id="pub-list">
 {% for publi in site.data.publist %}
-  <div class="pub-entry" style="margin-bottom: 1.5em;">
-    <strong>{{ publi.title }}</strong><br />
-    <em>{{ publi.authors }}</em><br />
-    <a href="{{ publi.link.url }}"><strong>{{ publi.link.display }}</strong></a>
-    {% if publi.incdata == 1 %}<br /><a href="{{ publi.dataurl }}">Data</a>{% endif %}
-    {% if publi.inccode == 1 %}<br /><a href="{{ publi.code.url }}">{{ publi.code.display }}</a>{% endif %}
-    <div style="display:none;">{{ publi.topic }}</div>
-  </div>
+
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">**{{ publi.link.display }}**</a> {% if publi.incdata == 1 %} <br/><a href="{{ publi.dataurl }}">Data</a> {% endif %} {% if publi.inccode == 1 %} <br/><a href="{{ publi.code.url }}">{{ publi.code.display }}</a> {% endif %} 
+
 {% endfor %}
-</div>
+
