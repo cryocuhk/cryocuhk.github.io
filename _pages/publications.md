@@ -52,6 +52,8 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 ## List of Publications
 
+## Filter by Topic
+
 {% for publi in site.data.publist %}
 
   **{{ publi.title }}** <br />
