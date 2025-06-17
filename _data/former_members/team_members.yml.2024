@@ -19,6 +19,17 @@
   info: PhD student
   email: ZhuoxuanXIA@link.cuhk.edu.hk
 
+- name: Xingyu (Carol) Xu
+  photo: xingyu.JPG
+  info: Postdoc 
+  email: xuxingyu@link.cuhk.edu.hk
+  number_educ: 1
+  education1: BSc and Master in Geodesy and Survey Engineering, Wuhan University
+  number_intr: 3
+  interest1: InSAR applications in permafrost deformation measurements
+  interest2: Automated mapping of glacial lakes using Deep learning
+  interest3: Glacial lake outburst floods
+
 - name: Jianlong (Herbert) He
   photo: Herbert.jpg
   info: PhD student
