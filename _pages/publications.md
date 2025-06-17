@@ -67,8 +67,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-{% for publi in site.data.publist %}
-
 <div id="pub-list">
 {% for publi in site.data.publist %}
   <div class="pub-entry" style="margin-bottom: 1.5em;">

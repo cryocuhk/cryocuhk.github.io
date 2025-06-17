@@ -10,7 +10,7 @@ permalink: /openings
 ## PhD positions
 Our group takes one or two new PhD students every year.  Students in our group came from various educational backgrounds (solid-earth geophysics, geology, math, physics, remote sensing, machine learning, civil engineering, electrical engineering, surveying/geomatics, GIS, etc). Students with strong mathematics and physics background and programming skills are desirable. If you are interested in pursuing PhD degree in our group, please send an [email](mailto:liulin@cuhk.edu.hk). State what and why you are interested and attach a CV.
 
-Please refer to our [postgraduate webpage](https://www.ees.cuhk.edu.hk/programme/postgraduate-programme/) for admission requirements, procedures, and deadlines.
+Please refer to our [postgraduate webpage](https://www.ees.cuhk.edu.hk/programme/postgraduate-programme/) for admissions requirements, procedures, and deadlines.
 
 You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship Scheme**. The application deadline is around 1 December every year. Please refer to [this website](http://www.rgc.edu.hk/hkphd) for further details of the scheme. 
 
