@@ -52,9 +52,20 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 ## List of Publications
 
-### Filter by Topic
-
 <input type="text" id="searchInput" placeholder="Filter by topic or keyword..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;">
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const input = document.getElementById("searchInput");
+  input.addEventListener("keyup", function () {
+    const filter = input.value.toLowerCase();
+    const listItems = document.querySelectorAll(".pub-entry");
+    listItems.forEach(function (item) {
+      const text = item.textContent.toLowerCase();
+      item.style.display = text.includes(filter) ? "" : "none";
+    });
+  });
+});
+</script>
 
 {% for publi in site.data.publist %}
 
