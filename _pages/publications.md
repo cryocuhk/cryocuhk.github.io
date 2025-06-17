@@ -52,6 +52,44 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 ## List of Publications
 
+<!-- Text search and dropdown filter -->
+<input type="text" id="searchInput" placeholder="Search title, author, or topic..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;" />
+
+<label for="topicFilter"><strong>Filter by Topic:</strong></label>
+<select id="topicFilter" style="margin-bottom: 1.5em; width: 100%; padding: 0.5em;">
+  <option value="">All Topics</option>
+  <option value="Cryosphere">Cryosphere</option>
+  <option value="Remote Sensing">Remote Sensing</option>
+  <option value="InSAR">InSAR</option>
+  <option value="Glaciology">Glaciology</option>
+</select>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const input = document.getElementById("searchInput");
+  const topicFilter = document.getElementById("topicFilter");
+
+  function applyFilters() {
+    const keyword = input.value.toLowerCase();
+    const selectedTopic = topicFilter.value;
+
+    document.querySelectorAll(".pub-entry").forEach(function (item) {
+      const text = item.textContent.toLowerCase();
+      const topic = item.getAttribute("data-topic");
+
+      const matchesKeyword = text.includes(keyword);
+      const matchesTopic = !selectedTopic || topic === selectedTopic;
+
+      item.style.display = matchesKeyword && matchesTopic ? "" : "none";
+    });
+  }
+
+  input.addEventListener("input", applyFilters);
+  topicFilter.addEventListener("change", applyFilters);
+});
+</script>
+
+
 <div id="pub-list">
 {% for publi in site.data.publist %}
   <div class="pub-entry" style="margin-bottom: 1.5em;">
