@@ -5,7 +5,6 @@
   link:
     url:  https://doi.org/10.5194/egusphere-2025-2187
     display: The Cryosphere Discussion (preprint)
-  topic: Permafrost
   incdata: 1
   dataurl: https://doi.org/10.3929/ethz-b-000735734
   highlight: 0
@@ -17,7 +16,6 @@
   link:
     url:  https://ieeexplore.ieee.org/document/11018336 
     display: IEEE Transactions on Geoscience and Remote Sensing (2025)
-  topic: Geophysics
   highlight: 0
 
 - title: "Ground surface deformation in permafrost region on the Qinghai-Tibet Plateau: A review"
