@@ -53,13 +53,12 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 ## List of Publications
 
 <!-- Search and Topic Filter UI -->
-<input type="text" id="searchInput" placeholder="Search title, author, or topic..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;" />
-
 <label for="topicFilter"><strong>Filter by Topic:</strong></label>
 <select id="topicFilter" style="margin-bottom: 1.5em; width: 100%; padding: 0.5em;">
   <option value="">All Topics</option>
   <option value="Cryosphere">Cryosphere</option>
   <option value="Remote Sensing">Remote Sensing</option>
+  <option value="Geophysics">Geophysics</option>
   <option value="InSAR">InSAR</option>
   <option value="Permafrost">Permafrost</option>
 </select>
