@@ -52,7 +52,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 ## List of Publications
 
-<!-- Text search and dropdown filter -->
+<!-- Search and Topic Filter UI -->
 <input type="text" id="searchInput" placeholder="Search title, author, or topic..." style="margin-bottom: 1em; width: 100%; padding: 0.5em;" />
 
 <label for="topicFilter"><strong>Filter by Topic:</strong></label>
@@ -61,7 +61,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
   <option value="Cryosphere">Cryosphere</option>
   <option value="Remote Sensing">Remote Sensing</option>
   <option value="InSAR">InSAR</option>
-  <option value="Glaciology">Glaciology</option>
+  <option value="Permafrost">Permafrost</option>
 </select>
 
 <script>
@@ -89,16 +89,17 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-
+<!-- Publications List -->
 <div id="pub-list">
-{% for publi in site.data.publist %}
-  <div class="pub-entry" style="margin-bottom: 1.5em;">
-    <strong>{{ publi.title }}</strong><br />
-    <em>{{ publi.authors }}</em><br />
-    <a href="{{ publi.link.url }}"><strong>{{ publi.link.display }}</strong></a>
-    {% if publi.incdata == 1 %}<br /><a href="{{ publi.dataurl }}">Data</a>{% endif %}
-    {% if publi.inccode == 1 %}<br /><a href="{{ publi.code.url }}">{{ publi.code.display }}</a>{% endif %}
-    <div style="display:none;">{{ publi.topic }}</div>
-  </div>
-{% endfor %}
+  {% for publi in site.data.publist %}
+    <div class="pub-entry" data-topic="{{ publi.topic | escape }}" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <strong>{{ publi.title }}</strong><br />
+      <em>{{ publi.authors }}</em><br />
+      <a href="{{ publi.link.url }}"><strong>{{ publi.link.display }}</strong></a>
+      {% if publi.incdata == 1 %}<br /><a href="{{ publi.dataurl }}">Data</a>{% endif %}
+      {% if publi.inccode == 1 %}<br /><a href="{{ publi.code.url }}">{{ publi.code.display }}</a>{% endif %}
+      <br /><span style="font-style: italic; color: #666;">Topic: {{ publi.topic }}</span>
+    </div>
+  {% endfor %}
 </div>
+
