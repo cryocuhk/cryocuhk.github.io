@@ -29,7 +29,9 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
   {% if publi.description %}
   <p><em>{{ publi.description }}</em></p>
   {% endif %}
+  {% if publi.link and publi.highlight_display %}
   <p><strong><a href="{{ publi.link.url }}">{{ publi.highlight_display }}</a></strong></p>
+  {% endif %}
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -49,7 +51,7 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<div class="my-3"></div>
 
 
 ## List of Publications
@@ -59,7 +61,9 @@ The sorting by topic function is under development. The current version causes s
 {% for publi in site.data.publist %}
 
   **{{ publi.title }}** <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">**{{ publi.link.display }}**</a> {% if publi.incdata == 1 %} <br/><a href="{{ publi.dataurl }}">Data</a> {% endif %} {% if publi.inccode == 1 %} <br/><a href="{{ publi.code.url }}">{{ publi.code.display }}</a> {% endif %} 
+  <em>{{ publi.authors }} </em><br />
+  <a href="{{ publi.link.url }}">**{{ publi.link.display }}**</a> 
+  {% if publi.incdata == 1 %} <br/><a href="{{ publi.dataurl }}">Data</a> {% endif %} {% if publi.inccode == 1 %} <br/><a href="{{ publi.code.url }}">{{ publi.code.display }}</a> {% endif %} 
 
 {% endfor %}
 
