@@ -99,8 +99,7 @@
     display: Earth System Science Data (2024)
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10732042
-#  highlight: 1
-#  highlight_display: Zhangyu Sun et al., ESSD 2024
+  highlight: 0
 
 - title: "Unraveling the non-linear relationship between seasonal deformation and permafrost active layer thickness"
   description: 
