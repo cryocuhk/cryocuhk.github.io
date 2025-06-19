@@ -1,6 +1,6 @@
 - title: "Quantifying retrogressive thaw slump mass wasting and carbon mobilisation on the Qinghai-Tibet Plateau using multi-modal remote sensing"
   image: dummy.png
-  description: 
+  description: ""
   authors: Kathrin Maier, Zhuoxuan Xia, Lin Liu, Mark Lara, Jurjen van der Sluijs, Philipp Bernhard, Irena Hajnsek
   link:
     url:  https://doi.org/10.5194/egusphere-2025-2187
@@ -154,7 +154,7 @@
     url:   https://doi.org/10.1002/ppp.2248
     display:  Permafrost and Periglacial Processes (2024)
 
-- title: "GNSS and the Cryosphere"
+- title: "GNSS and the cryosphere"
   image: dummy.png 
   description: ""
   authors: Tonie van Dam, Pippa Whitehouse, Lin Liu 
@@ -293,7 +293,7 @@
   description: ""
   authors: Xiaowen Wang, Lin Liu, Yan Hu, Tonghua Wu, Lin Zhao, Qiao Liu, Rui Zhang, Bo Zhang, Guoxiang Liu
   link:
-    url: https://nhess.copernicus.org/articles/21/2791/2021/ 
+    url: https://nhess.copernicus.org/articles/21/2791/2021/
     display: Natural Hazards and Earth System Sciences (2021)
   highlight: 0
 
@@ -720,7 +720,6 @@
 - title: Recent Arctic tundra fire initiates widespread thermokarst development
   image: dummy.png
   description:
-    ADD description
   authors:
     Benjamin Jones, Guido Grosse, Christopher Arp, Eric Miller, Lin Liu, Daniel Hayes, Christopher Larsen
   link:
