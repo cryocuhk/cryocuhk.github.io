@@ -52,6 +52,8 @@ For a full list see [below](#list-of-publications) or go to [Google Scholar](htt
 
 ## List of Publications
 
+The sorting by topic function is under development. The current version causes some misformating in the list below.
+
 {% for publi in site.data.publist %}
 
   **{{ publi.title }}** <br />
