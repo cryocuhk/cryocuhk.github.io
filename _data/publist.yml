@@ -88,7 +88,7 @@
     url:   https://doi.org/10.1038/s41586-024-08096-3
     display: Nature (2024)
   highlight: 1
-  highlight_display: Jiangjun Ran et al., Nature 2024
+  highlight_display: Ran et al., Nature 2024
 
 - title: "TPRoGI: a comprehensive rock glacier inventory for the Tibetan Plateau using deep learning"
   image: dummy.png 
@@ -127,7 +127,7 @@
   incdata: 1
   dataurl: https://doi.org/10.5281/zenodo.10928346
   highlight: 1
-  highlight_display: Zhuoxuan Xia et al., GRL 2024
+  highlight_display: Xia et al., GRL 2024
 
 - title: "Combined use of multi-source satellite imagery and deep learning for automated mapping of glacial lakes in the Bhutan Himalaya"
   image: dummy.png 
@@ -204,7 +204,7 @@
     url: https://doi.org/10.5194/tc-17-2305-2023
     display: The Cryosphere (2023)
   highlight: 1
-  highlight_display: Yan Hu et al., TC 2023
+  highlight_display:  Hu et al., TC 2023
 
 - title: "Investigating the seasonal dynamics of surface water over the Qinghai-Tibet Plateau using Sentinel-1 imagery and a novel gated multiscale ConvNet"
   image: dummy.png 
@@ -393,13 +393,13 @@
 
 - title: "An automated, generalized, deep-learning-based method for delineating the calving fronts of Greenland glaciers from multi-sensor remote sensing imagery"
   image: dl_calving.jpg 
-  description: "AI draws glacial front from remote sensing big data."
+  description: "AI draws glacial front from remote sensing big data"
   authors: Enze Zhang, Lin Liu, Lingcao Huang, Ka Shing Ng
   link:
     url: https://doi.org/10.1016/j.rse.2020.112265
     display: Remote Sensing of Environment (2021)
   highlight: 1
-  highlight_display: Enze Zhang et al., RSE 2021
+  highlight_display: Zhang et al., RSE 2021
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.923272
   inccode: 1
@@ -491,13 +491,11 @@
 
 - title: "Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach"
   image: dl_calving.jpg 
-  description: "AI draws glacial front from remote sensing big data."
   authors: Enze Zhang, Lin Liu, Lingcao Huang
   link:
     url: https://doi.org/10.5194/tc-13-1729-2019
     display: The Cryosphere (2019)
   highlight: 0
-  #highlight_display: Enze Zhang et al., TC 2019
   incdata: 1
   dataurl: https://doi.org/10.1594/PANGAEA.897064
 
@@ -570,7 +568,7 @@
 
 - title: "Decadal changes of surface elevation over permafrost area estimated using reflected GPS signals"
   image: gps_ir_diagram.jpg
-  description: A new type of observations can tell elevation changes in permafrost areas over decades and at daily intervals.
+  description: "GNSS reflectometry observations can tell elevation changes in permafrost areas over decades and at daily intervals"
   authors: Lin Liu, Kristine M. Larson
   link:
     url: https://www.the-cryosphere.net/12/477/2018/
@@ -679,7 +677,7 @@
     url: https://www.the-cryosphere.net/11/997/2017/tc-11-997-2017.html
     display: The Cryosphere (2017)
   highlight: 1
-  highlight_display: Xiaowen Wang et al., TC 2017
+  highlight_display:  Wang et al., TC 2017
   incdata: 1
   dataurl: https://doi.pangaea.de/10.1594/PANGAEA.874616
 
@@ -771,7 +769,7 @@
 
 - title: Sustained mass loss of the Northeast Greenland ice sheet triggered by regional warming
   image: abbas_nclim.jpg
-  description: "Te last remaining stable portion of the Greenland ice sheet was stable no more."
+  description: "The last remaining stable portion of the Greenland ice sheet was stable no more."
   authors: Shfaqat Abbas Khan, Kurt Kjær, Michael Bevis, Jonathan Bamber, John Wahr, Kristian Kjeldsen, Anders Bjørk, Niels Korsgaard, Leigh Stearns, Michiel van den Broeke, Lin Liu, Nicolaj Larsen, Ioana Muresan
   link:
     url: https://www.nature.com/articles/nclimate2161
