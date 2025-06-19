@@ -11,7 +11,7 @@
 
 - title: "Estimation of 3D complex deformation of surface-rupture earthquake with automated fault trace identification"
   image: dummy.png
-  description: 
+  description: ""
   authors: Mingkai Chen, Guangyu Xu, Lin Liu
   link:
     url:  https://ieeexplore.ieee.org/document/11018336 
@@ -20,7 +20,7 @@
 
 - title: "Ground surface deformation in permafrost region on the Qinghai-Tibet Plateau: A review"
   image: dummy.png
-  description: 
+  description: ""
   authors: Shibo Liu, Lin Zhao, Lingxiao Wang, Lin Liu, Defu Zou, Guojie Hu, Zhe Sun, Yuxin Zhang, Wei Chen, Xueying Wang, Meng Wang, Huayun Zhou, Yongping Qiao
   link:
     url:  https://doi.org/10.1016/j.earscirev.2025.105109
@@ -29,7 +29,7 @@
 
 - title: "Pronounced underestimation of surface deformation due to unwrapping errors over Tibetan Plateau permafrost by Sentinel‐1 InSAR: Identification and correction"
   image: dummy.png
-  description: 
+  description: ""
   authors: Chengyan Fan, Lin Liu, Zhuoyi Zhao, Cuicui Mu
   link:
     url:   http://dx.doi.org/10.1029/2024JF007854
@@ -41,7 +41,7 @@
 
 - title: "Time-Series models for ground subsidence and heave over permafrost in InSAR Processing: A comprehensive assessment and new improvement"
   image: dummy.png
-  description: 
+  description: ""
   authors: Chengyan Fan, Cuicui Mu, Lin Liu, Tingjun Zhang, Shichao Jia, Shengdi Wang, Wen Sun, Zhuoyi Zhao
   link:
     url:   https://doi.org/10.1016/j.isprsjprs.2025.02.019
@@ -53,7 +53,7 @@
 
 - title: "Rock Glacier Velocity: An Essential Climate Variable quantity for permafrost"
   image: dummy.png
-  description: 
+  description: ""
   authors: Yan Hu, Lukas U. Arenson, Chloé Barboux, Xavier Bodin, Alessandro Cicoira, Reynald Delaloye, Isabelle Gärtner-Roer, Andreas Kääb, Andreas Kellerer-Pirklbauer, Christophe Lambiel, Lin Liu, Cécile Pellet, Line Rouyet, Philippe Schoeneich, Gernot Seier, Tazio Strozzi
   link:
     url:   https://doi.org/10.1029/2024RG000847 
@@ -120,7 +120,7 @@
 
 - title: "Widespread and rapid activities of retrogressive thaw slumps on the Qinghai‐Tibet Plateau from 2016 to 2022"
   image: rts_madoi.jpg 
-  description: Thawing of permafrost caused prominent increase in thaw slump numbers and areas. 
+  description: Thawing of permafrost caused prominent increase in thaw slump numbers and areas 
   authors: Zhuoxuan Xia, Lin Liu, Cuicui Mu, Xiaoqing Peng, Zhuoyi Zhao, Lingcao Huang, Jing Luo, Chengyan Fan
   link:
     url:   https://doi.org/10.1029/2024GL109616
