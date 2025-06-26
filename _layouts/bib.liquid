@@ -236,6 +236,9 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
+       {% if entry.data %}
+        <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+      {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
@@ -279,8 +282,9 @@
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
-              data-badge-type="2"
+              data-badge-type="donut"
               data-badge-popover="right"
+              data-hide-less-than="10"
               {% if entry.altmetric != blank and entry.altmetric != 'true' %}
                 data-altmetric-id="{{ entry.altmetric }}"
               {% elsif entry.arxiv %}
@@ -306,7 +310,8 @@
               {% else %}
                 data-pmid="{{ entry.pmid }}"
               {% endif %}
-              data-style="small_rectangle"
+              data-style="small_circle"
+              data-hide-zero-citations="true"
               data-legend="hover-right"
               style="margin-bottom: 3px;"
             ></span>
