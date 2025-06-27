@@ -18,7 +18,8 @@ Every July, we host a camp inviting all potential applicants to our campus. The 
 ## Postdoc positions
 <!-- We are currently looking for one postdoc to work on an interdiscplinary project on thermokarst lakes and thaw slumps. Contact me if you are interested in learning more! --> 
 [Hong Kong RGC Junior Research Fellow Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/) applications open every August.
-[Hong Kong Scholars Program](https://www.hkscholars.org/) 
+
+[Hong Kong Scholars Program](https://www.hkscholars.org/) is for recent PhD graduates from mainland China.
 
 ## MPhil positions
 Contact us
