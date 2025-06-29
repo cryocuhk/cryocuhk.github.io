@@ -9,7 +9,7 @@ category: Current
 
 Zhangyu (Joe) Sun is a Ph.D. student of Earth and Environmental Sciences at The Chinese University of Hong Kong. Joe obtained his Bachelor and Master degrees from Wuhan University in 2018 and 2021, respectively. He also has a double-degree Master degree from the Technical University of Munich. He obtained the Hong Kong PhD Fellowship and earned his Ph.D. in 2025. During his Ph.D. study, he used optical remote sensing, InSAR, and deep learning to comprehensively study rock glacier distribution, velocities, and water storage in High Mountain Asia.
 
-See [CV](/assets/pdf/cv_joe.pdf), [Google Scholar](https://scholar.google.com/citations?user=fpWO_vEAAAAJ&hl=zh-CN) for details. 
+See [CV](/assets/pdf/Joe_CV.pdf), [Google Scholar](https://scholar.google.com/citations?user=fpWO_vEAAAAJ&hl=zh-CN) for details. 
 
 Contact: [Email](mailto:sunzhangyu@link.cuhk.edu.hk)
 
