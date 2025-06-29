@@ -11,6 +11,6 @@ Zhangyu (Joe) Sun is a Ph.D. student of Earth and Environmental Sciences at The 
 
 See [CV](/assets/pdf/cv_joe.pdf), [Google Scholar](https://scholar.google.com/citations?user=fpWO_vEAAAAJ&hl=zh-CN) for details. 
 
-Contact: [Email](sunzhangyu@link.cuhk.edu.hk)
+Contact: [Email](mailto:sunzhangyu@link.cuhk.edu.hk)
 
 
