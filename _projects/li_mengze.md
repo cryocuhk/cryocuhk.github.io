@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mengze Li
-description: PhD student<br> 
+description: PhD student
 img: assets/img/people/Mengze.jpg
 importance: 0
 category: Current
