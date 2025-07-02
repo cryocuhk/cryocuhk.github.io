@@ -8,6 +8,4 @@ category: Current
 related_publications: true
 
 ---
-Zhuoxuan Xia is a PhD student at The Chinese University of Hong Kong, working on investigating the temporal and spatial variation of thermokarst landforms on the Qinghai Tibetan Plateau (QTP) using remote sensing and machine learning methods.
-
-//even citations {% cite Xia_2022 Xia_2024%} from papers.bib
+Zhuoxuan Xia is a PhD student at The Chinese University of Hong Kong, working on investigating the temporal and spatial variation of thermokarst landforms on the Qinghai Tibetan Plateau (QTP) using remote sensing and machine learning methods. Her recent publications on this topic include {% cite Xia_2022 Xia_2024%}.
