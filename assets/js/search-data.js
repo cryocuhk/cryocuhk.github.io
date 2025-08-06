@@ -166,6 +166,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-yifan-bu",
+          title: 'Yifan Bu',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bu_yifan/";
             },},{id: "projects-jie-chen",
           title: 'Jie Chen',
           description: "PhD (2015-19, co-supervised with Hui Lin)  now Postdoc at University of Alaska Fairbanks",
@@ -271,6 +276,11 @@ ninja.data = [{
           description: "PhD (2019-23) and HKPFS Recipient",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xu_xingyu/";
+            },},{id: "projects-luming-louis-yang",
+          title: 'Luming (Louis) Yang',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yang_luming/";
             },},{id: "projects-bao-zhang",
           title: 'Bao Zhang',
           description: "Postdoc (2017-18) now Associate Professor at Wuhan University",
