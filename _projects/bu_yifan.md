@@ -2,7 +2,7 @@
 layout: page
 title: Yifan Bu
 description: PhD student 
-img: assets/img/people/buyifan.jpg
+img: assets/img/people/alumni/buyifan.jpg
 importance: 0
 category: Current
 related_publications: False
