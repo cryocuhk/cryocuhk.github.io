@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xingyu (Carol) Xu
-description: PhD (2019-23) and HKPFS Recipient <br> 
+description: PhD student and HKPFS recipient (2019-23) <br> 
 importance: 0
 category: Alumni
 ---

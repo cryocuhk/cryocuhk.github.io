@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enze Zhang
-description: PhD (2016-20) <br> now Postdoc at Hong Kong University of Science and Technology
+description: PhD student (2016-20) <br> now Postdoc at Hong Kong University of Science and Technology
 importance: 0
 category: Alumni
 ---
