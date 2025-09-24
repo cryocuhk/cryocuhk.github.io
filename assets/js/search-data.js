@@ -203,7 +203,7 @@ ninja.data = [{
               window.location.href = "/projects/hu_bo/";
             },},{id: "projects-yan-hu",
           title: 'Yan Hu',
-          description: "PhD and HKPFS recipient (2017-21)  now Postdoc at University of Fribourg",
+          description: "PhD student and HKPFS recipient (2017-21)  now Postdoc at University of Fribourg",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hu_yan/";
             },},{id: "projects-yufeng-hu",
@@ -233,7 +233,7 @@ ninja.data = [{
               window.location.href = "/projects/liu_lin/";
             },},{id: "projects-joseph-ma-ho-yin",
           title: 'Joseph Ma Ho Yin',
-          description: "MPhil 2014-16   later PhD at National University of Singapore  now Principal Scientist at Halliburton",
+          description: "MPhil student (2014-16)   later PhD at National University of Singapore  now Principal Scientist at Halliburton",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ma_joseph/";
             },},{id: "projects-jiangjun-ran",
@@ -248,7 +248,7 @@ ninja.data = [{
               window.location.href = "/projects/sun_zhangyu/";
             },},{id: "projects-billy-ho-ming-tsang",
           title: 'Billy Ho Ming Tsang',
-          description: "MPhil 2022-24   now  PhD student at University of Hong Kong",
+          description: "MPhil student (2022-24)   now  PhD student at University of Hong Kong",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tsang_billy/";
             },},{id: "projects-visiting-students-2016-17",
@@ -273,7 +273,7 @@ ninja.data = [{
               window.location.href = "/projects/xia_zhuoxuan/";
             },},{id: "projects-xingyu-carol-xu",
           title: 'Xingyu (Carol) Xu',
-          description: "PhD (2019-23) and HKPFS Recipient",
+          description: "PhD student and HKPFS recipient (2019-23)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xu_xingyu/";
             },},{id: "projects-luming-louis-yang",
@@ -288,12 +288,12 @@ ninja.data = [{
               window.location.href = "/projects/zhang_bao/";
             },},{id: "projects-enze-zhang",
           title: 'Enze Zhang',
-          description: "PhD (2016-20)  now Postdoc at Hong Kong University of Science and Technology",
+          description: "PhD student (2016-20)  now Postdoc at Hong Kong University of Science and Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zhang_enze/";
             },},{id: "projects-jiahua-zhang",
           title: 'Jiahua Zhang',
-          description: "PhD (2017-21)  now Project Scientist at University Corporation for Atmospheric Research (UCAR)",
+          description: "PhD student (2017-21)  now Project Scientist at University Corporation for Atmospheric Research (UCAR)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zhang_jiahua/";
             },},{id: "projects-wensong-bill-zhang",
