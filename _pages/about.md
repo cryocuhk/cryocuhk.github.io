@@ -21,6 +21,6 @@ announcements:
 ---
 
 Our research group investigates the cryosphere—the Earth's surface where water is frozen.
-We integrate a wide range of tools, from satellite imagery and ground measurements to artificial intelligence, to better understand how the frozen regions (Arctic, Antarctica, high mountains) behave and change over time. By adopting cutting-edge tools, developing novel algorithms, and generating new observations, we aim to uncover how the cryosphere is responding to climate change and how these changes affect the air, oceans, land, and life. We are also interested in ice-related landforms and processes in other planetary bodies. 
+We integrate a wide range of tools, from satellite imagery and ground measurements to artificial intelligence, to better observe and understand how the frozen regions (Arctic, Antarctica, high mountains) change over time. By adopting cutting-edge tools, developing novel algorithms, and generating new observations, we aim to uncover how the cryosphere is responding to climate change and how these changes affect the air, oceans, land, and life. We are also interested in ice-related landforms and processes in other planetary bodies. 
 
 **We are recruiting new PhD students** [(see opportunities)](/opportunities/)**!** 
