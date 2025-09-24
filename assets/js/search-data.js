@@ -213,7 +213,7 @@ ninja.data = [{
               window.location.href = "/projects/hu_yufeng/";
             },},{id: "projects-lingcao-huang",
           title: 'Lingcao Huang',
-          description: "PhD student(2016-19) now Research Assistant Professor at The Chinese University of Hong Kong",
+          description: "PhD student (2016-19) now Research Assistant Professor at The Chinese University of Hong Kong",
           section: "Projects",handler: () => {
               window.location.href = "/projects/huang_lingcao/";
             },},{id: "projects-guoyan-jiang",
