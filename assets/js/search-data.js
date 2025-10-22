@@ -266,6 +266,11 @@ ninja.data = [{
           description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wang_xiaowen/";
+            },},{id: "projects-wei-wu",
+          title: 'Wei Wu',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wu_wei/";
             },},{id: "projects-zhuoxuan-summer-xia",
           title: 'Zhuoxuan (Summer) Xia',
           description: "PhD student",
