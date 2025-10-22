@@ -14,6 +14,6 @@ See [CV](/assets/pdf/Joe_CV.pdf), [Google Scholar](https://scholar.google.com/ci
 
 Contact: [Email](mailto:sunzhangyu@link.cuhk.edu.hk)
 
-{% cite Sun_2024%}
+{% cite Sun_2024 Sun_2025 %}
 
 
