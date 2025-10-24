@@ -24,6 +24,16 @@ Yan is supported by the [Hong Kong PhD Fellowship Scheme](http://www.rgc.edu.hk/
 
 <p> &nbsp; </p>
 
+## Rock glacier inventory for the Tibetan Plateau
+
+Zhangyu (Joe) Sun, PhD student
+
+This research compiles a comprehensive inventory of rock glaciers across the Tibetan Plateau, i.e., TPRoGI (v1.0) using an innovative deep learning method. This inventory consists of a total of 44 273 rock glaciers, covering approximately 6000 km2, with a mean area of 0.14 km2. This inventory serves as a benchmark dataset and constitutes a significant contribution towards understanding, future monitoring, and assessment of permafrost on the Tibetan Plateau in the context of climate change. The dataset is available at [https://doi.org/10.5281/zenodo.10732042](https://doi.org/10.5281/zenodo.10732042) (Sun et al., 2024a).
+
+![](/assets/img/research/TPRoGI_Joe.png){: style="width: 800px"}
+
+*Rock glacier inventory (TPRoGI) on the Tibetan Plateau.*
+
 ## Thermokarst landforms on the Tibetan Plateau
 
 Summer Xia (PhD student) and Lingcao Huang (former postdoc, now RAP @ CUHK)
