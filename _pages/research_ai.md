@@ -34,6 +34,18 @@ This research compiles a comprehensive inventory of rock glaciers across the Tib
 
 *Rock glacier inventory (TPRoGI) on the Tibetan Plateau.*
 
+## Revealing Supraglacial Hydrology of the Greenland Ice Sheet Using Deep Learning
+
+Wensong (Bill) Zhang, PhD Student
+
+In recent two decades, the Greenland Ice Sheet is the largest single contributor to global sea level rise, and this contribution is dominated by surface meltwater runoff. Surface meltwater is routed and (transiently) stored by a diverse and complex supraglacial hydrological system, including supraglacial rivers, lakes, water-filled crevasses, slushes, and moulins. Until now, the distribution and evolution of these features a badly constrained, since it is challenging to map them from satellite imagery due to their narrow width (except for supraglacial lakes). This project plans to develop the first fully automated method to collectively map all these hydrologic features using Deep Learning.
+
+![](/assets/img/research/bill.jpg){: style="width: 800px"}
+
+*From left to right: Sentinel-2 false color composite (10 m resolution) for different components of Greenland surface hydrology, including supraglacial rivers and moulins, supraglacial lakes, water-filled crevasses, and slushes.*
+
+<p> &nbsp; </p>
+
 ## Thermokarst landforms on the Tibetan Plateau
 
 Summer Xia (PhD student) and Lingcao Huang (former postdoc, now RAP @ CUHK)
