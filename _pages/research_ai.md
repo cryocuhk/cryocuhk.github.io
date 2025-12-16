@@ -4,26 +4,6 @@ title: "Research Using Artificial Intelligence"
 permalink: /research_ai/
 ---
 
-## Project Title
-
-Following is content from permafrost research, to be updated.
-
-Yan Hu, PhD student
-
-Yan is currently working on mapping permafrost landforms in western China, such as rock glaciers, protalus lobes, solifluction sheets etc, and quantifying their kinematic characteristics in order to understand their variations and potential response and impact in the context of global climate change. Her research is based on remote sensing especially InSAR technique and in-situ geological and geophysical investigations. 
-
-Watch this 1-min video to get a glimpse of her recent work:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xL42_UPkvI0?rel=0&amp;start=5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Yan also presented this work at the 5th European Conference on Permafrost (see her [poster](/assets/EUCOP5_poster_YanHU.pdf)).
-   
-Our collaborators include Professors Lin Zhao and Tonghua Wu (Chinese Academy of Sciences), Professor Tobias Bolch and Dr. Philipp Rastern (University of Zurich), and Dr. Xiaowen Wang (University of Tokyo).
-
-This research is funded by the Hong Kong Research Grants Council (Project CUHK14303417).
-
-Yan is supported by the [Hong Kong PhD Fellowship Scheme](http://www.rgc.edu.hk/hkphd).
-
-<p> &nbsp; </p>
-
 ## Rock glacier inventory for the Tibetan Plateau
 
 Zhangyu (Joe) Sun, PhD student
@@ -50,7 +30,7 @@ In recent two decades, the Greenland Ice Sheet is the largest single contributor
 
 Summer Xia (PhD student) and Lingcao Huang (former postdoc, now RAP @ CUHK)
 
-This research focuses on the distribution of thermokarst landforms, including thaw slumps (the figure below) and thermal erosion gullies, on the Tibetan Plateau and the factors affecting them. In many permafrost areas, warming and thawing of ground result in distinct thermokarst landforms in remote and isolated regions. He applies image processing methods, including deep learning algorithm, to multi-source remote sensing data, aiming to map these landforms automatically. Wealso analyze the spatial-temporal changes of the mapped landforms and investigates the driving factors of their evolution by integrating other data such as digital elevation model and meteorological data.
+This research focuses on the distribution of thermokarst landforms, including thaw slumps (the figure below) and thermal erosion gullies, on the Tibetan Plateau and the factors affecting them. In many permafrost areas, warming and thawing of ground result in distinct thermokarst landforms in remote and isolated regions. We apply image processing methods, including deep learning algorithm, to multi-source remote sensing data, aiming to map these landforms automatically. We also analyze the spatial-temporal changes of the mapped landforms and investigates the driving factors of their evolution by integrating other data such as digital elevation model and meteorological data.
 
 ![](/assets/img/research/lingcao_thermokarst.png){: style="width: 800px"}
 
