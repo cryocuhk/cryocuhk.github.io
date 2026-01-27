@@ -254,11 +254,6 @@ ninja.data = [{
           title: 'Zhangyu (Joe) Sun',
           description: "PhD student",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/student_template.md/";
-            },},{id: "projects-zhangyu-joe-sun",
-          title: 'Zhangyu (Joe) Sun',
-          description: "PhD student",
-          section: "Projects",handler: () => {
               window.location.href = "/projects/sun_zhangyu/";
             },},{id: "projects-billy-ho-ming-tsang",
           title: 'Billy Ho Ming Tsang',
@@ -285,9 +280,9 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wu_wei/";
-            },},{id: "projects-xia-zhuoxuan",
-          title: 'Xia_zhuoxuan',
-          description: "",
+            },},{id: "projects-zhuoxuan-summer-xia",
+          title: 'Zhuoxuan (Summer) Xia',
+          description: "PhD student (2021-25)  now Postdoc at University of Illinois",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xia_zhuoxuan/";
             },},{id: "projects-xingyu-carol-xu",
