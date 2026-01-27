@@ -254,6 +254,11 @@ ninja.data = [{
           title: 'Zhangyu (Joe) Sun',
           description: "PhD student",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/student_template.md/";
+            },},{id: "projects-zhangyu-joe-sun",
+          title: 'Zhangyu (Joe) Sun',
+          description: "PhD student",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/sun_zhangyu/";
             },},{id: "projects-billy-ho-ming-tsang",
           title: 'Billy Ho Ming Tsang',
@@ -280,9 +285,9 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wu_wei/";
-            },},{id: "projects-zhuoxuan-summer-xia",
-          title: 'Zhuoxuan (Summer) Xia',
-          description: "PhD student",
+            },},{id: "projects-xia-zhuoxuan",
+          title: 'Xia_zhuoxuan',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xia_zhuoxuan/";
             },},{id: "projects-xingyu-carol-xu",
