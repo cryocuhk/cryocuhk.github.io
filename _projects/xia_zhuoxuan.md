@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Zhuoxuan (Summer) Xia 
-description: PhD student 
+description: PhD student (2021-2025) <br> now Postdoc at University of Illinois
 img: assets/img/people/ZhuoxuanXIA.jpg
 importance: 0
-category: Current
-related_publications: true
-
----
-Zhuoxuan Xia is a PhD student at The Chinese University of Hong Kong, working on investigating the temporal and spatial variation of thermokarst landforms on the Qinghai Tibetan Plateau (QTP) using remote sensing and machine learning methods. Her recent publications on this topic include {% cite Xia_2022 Xia_2024%}.
+category: Alumni
