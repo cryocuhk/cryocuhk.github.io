@@ -254,7 +254,7 @@ ninja.data = [{
               window.location.href = "/projects/liu_lin/";
             },},{id: "projects-joseph-ma-ho-yin",
           title: 'Joseph Ma Ho Yin',
-          description: "MPhil student (2014-16)   later PhD at National University of Singapore  now Principal Scientist at Halliburton",
+          description: "MPhil student (2014-16)   later PhD at National University of Singapore  now Data Scientist at PipeSense",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ma_joseph/";
             },},{id: "projects-jiangjun-ran",
