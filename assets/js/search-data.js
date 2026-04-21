@@ -309,7 +309,7 @@ ninja.data = [{
               window.location.href = "/projects/yang_luming/";
             },},{id: "projects-bao-zhang",
           title: 'Bao Zhang',
-          description: "Postdoc (2017-18) now Associate Professor at Wuhan University",
+          description: "Postdoc (2017-18) now Professor at Wuhan University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zhang_bao/";
             },},{id: "projects-enze-zhang",
@@ -319,7 +319,7 @@ ninja.data = [{
               window.location.href = "/projects/zhang_enze/";
             },},{id: "projects-jiahua-zhang",
           title: 'Jiahua Zhang',
-          description: "PhD student (2017-21)  now Project Scientist at University Corporation for Atmospheric Research (UCAR)",
+          description: "PhD student (2017-21)  now Scientist at University Corporation for Atmospheric Research (UCAR)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zhang_jiahua/";
             },},{id: "projects-wensong-bill-zhang",
