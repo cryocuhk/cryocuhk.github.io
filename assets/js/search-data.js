@@ -264,7 +264,7 @@ ninja.data = [{
               window.location.href = "/projects/ran_jiangjun/";
             },},{id: "projects-zhangyu-joe-sun",
           title: 'Zhangyu (Joe) Sun',
-          description: "PhD student (2021-2025) now Lecturer at Hohai University",
+          description: "PhD student (2021-25) now Lecturer at Hohai University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sun_zhangyu/";
             },},{id: "projects-billy-ho-ming-tsang",
