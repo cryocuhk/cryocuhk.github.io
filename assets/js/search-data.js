@@ -204,7 +204,7 @@ ninja.data = [{
               window.location.href = "/projects/chen_xiyu/";
             },},{id: "projects-chengyan-fancy-fan",
           title: 'Chengyan (Fancy) Fan',
-          description: "Research Assistant (2023-24)",
+          description: "Postdoctoral Fellow",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fan_chengyan/";
             },},{id: "projects-jianlong-herbert-he",
