@@ -262,6 +262,11 @@ ninja.data = [{
           description: "Postdoc (2018) now Associate Professor at Southern University of Science and Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ran_jiangjun/";
+            },},{id: "projects-yujie-sun",
+          title: 'Yujie Sun',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sun_yujie/";
             },},{id: "projects-zhangyu-joe-sun",
           title: 'Zhangyu (Joe) Sun',
           description: "PhD student (2021-25) now Lecturer at Hohai University",
