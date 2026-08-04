@@ -262,7 +262,7 @@ ninja.data = [{
               window.location.href = "/projects/ma_joseph/";
             },},{id: "projects-jiangjun-ran",
           title: 'Jiangjun Ran',
-          description: "Postdoc (2018) now Associate Professor at Southern University of Science and Technology",
+          description: "Postdoc (2018) now Professor at Central South University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ran_jiangjun/";
             },},{id: "projects-yujie-sun",
@@ -282,7 +282,7 @@ ninja.data = [{
               window.location.href = "/projects/tsang_billy/";
             },},{id: "projects-visiting-students-2016-17",
           title: 'Visiting Students (2016-17)',
-          description: "Zhenming Wu  Jiahui Wang  Yongxin Liu   Wanwan Shao",
+          description: "Zhenming Wu  Jiahui Wang  Yongxin Liu   Wanwan Shao  Weiyuy Zheng",
           section: "Projects",handler: () => {
               window.location.href = "/projects/visiting_students_2016/";
             },},{id: "projects-visiting-students-2018-23",
