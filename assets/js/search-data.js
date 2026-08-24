@@ -290,6 +290,11 @@ ninja.data = [{
           description: "Mingkai Chen  Linyang Xin  Yidan Ding   Haoran Wang  Weifan Zhou",
           section: "Projects",handler: () => {
               window.location.href = "/projects/visiting_students_2018/";
+            },},{id: "projects-ruixin-rae-wang",
+          title: 'Ruixin (Rae) Wang',
+          description: "PhD Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wang_ruixin/";
             },},{id: "projects-xiaowen-wang",
           title: 'Xiaowen Wang',
           description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
