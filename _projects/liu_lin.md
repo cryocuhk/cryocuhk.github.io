@@ -2,7 +2,7 @@
 layout: page
 title: Lin Liu
 description: Associate Professor
-img: assets/img/people/lin.jpg
+img: assets/img/people/lin.jpeg
 importance: 0
 category: Group Leader
 ---
