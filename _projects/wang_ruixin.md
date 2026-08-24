@@ -5,7 +5,6 @@ description: PhD Student
 img: assets/img/people/Rae.jpg
 importance: 0
 category: Current
-related_publications: false
 ---
 
 Ruixin Wang is a PhD student in the Department of Earth and Environmental Sciences at The Chinese University of Hong Kong, supervised by Prof. Lin Liu. She received her B.Sc. from Wuhan University and her M.Sc. from the University of Chinese Academy of Sciences. Her research focuses on permafrost hydrology, Arctic runoff dynamics, and water and carbon cycles under climate warming.
