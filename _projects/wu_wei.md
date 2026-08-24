@@ -8,4 +8,4 @@ category: Current
 related_publications: true
 
 ---
-Wei Wu is a PhD student from the department of earth and environment sciences, The Chinese University of Hong Kong. Wei works on thaw slumps in Tibet Plateau using remote sensing and deep learning methods.
+Wei Wu is a PhD student from the Department of Earth and Environment sciences, The Chinese University of Hong Kong. Wei obtained her master's degree in Environmental Data Science and Machine Learning, Imperial College London. Wei currently works on retrogressive thaw slumps in the Qinghai-Tibetan Plateau using remote sensing and deep learning methods.
