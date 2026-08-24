@@ -14,6 +14,11 @@ images:
 ---
 ### Retrogressive thaw slumps (RTS) in Huashixia and the Qilian Mountains, Qinghai, 2026
 By Ruixin Wang
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/RTS1.jpg"><img src="/assets/img/field/RTS1.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/RTS2.jpg"><img src="/assets/img/field/RTS2.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/RTS3.jpg"><img src="/assets/img/field/RTS3.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/RTS4.jpg"><img src="/assets/img/field/RTS4.jpg" /></a>
+<p> &nbsp; </p>
 
 
 ### Snow monitoring site in Qilian Mountain, Qinghai, 2018
