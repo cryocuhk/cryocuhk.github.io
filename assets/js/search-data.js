@@ -260,6 +260,11 @@ ninja.data = [{
           description: "MPhil student (2014-16)   later PhD at National University of Singapore  now Data Scientist at PipeSense",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ma_joseph/";
+            },},{id: "projects-lin-peng",
+          title: 'Lin Peng',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/peng_lin/";
             },},{id: "projects-jiangjun-ran",
           title: 'Jiangjun Ran',
           description: "Postdoc (2018) now Professor at Central South University",
