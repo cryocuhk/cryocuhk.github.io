@@ -255,8 +255,8 @@ ninja.data = [{
           description: "Associate Professor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
-            },},{id: "projects-joseph-ma-ho-yin",
-          title: 'Joseph Ma Ho Yin',
+            },},{id: "projects-joseph-ho-yin-ma",
+          title: 'Joseph Ho Yin Ma',
           description: "MPhil student (2014-16)   later PhD at National University of Singapore  now Data Scientist at PipeSense",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ma_joseph/";
@@ -287,7 +287,7 @@ ninja.data = [{
               window.location.href = "/projects/tsang_billy/";
             },},{id: "projects-visiting-students-2016-17",
           title: 'Visiting Students (2016-17)',
-          description: "Zhenming Wu  Jiahui Wang  Yongxin Liu   Wanwan Shao  Weiyuy Zheng",
+          description: "Zhenming Wu  Jiahui Wang  Yongxin Liu   Wanwan Shao  Weiyue Zheng",
           section: "Projects",handler: () => {
               window.location.href = "/projects/visiting_students_2016/";
             },},{id: "projects-visiting-students-2018-23",
