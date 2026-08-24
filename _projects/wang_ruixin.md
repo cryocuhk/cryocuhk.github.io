@@ -2,7 +2,7 @@
 layout: page
 title: Ruixin (Rae) Wang
 description: PhD Student
-img: assets/img/people/Rae_avatar.jpg
+img: assets/img/people/Rae.jpg
 importance: 0
 category: Current
 related_publications: true
