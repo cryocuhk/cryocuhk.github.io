@@ -245,6 +245,11 @@ ninja.data = [{
           description: "Postdoc (2017-19, jointly supervised with Teng-fong Wong) now Professor at Wuhan University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jiang_guoyan/";
+            },},{id: "projects-marcellus-yu-him-leung",
+          title: 'Marcellus Yu Him Leung',
+          description: "MPhil student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/leung_marcellus/";
             },},{id: "projects-mengze-li",
           title: 'Mengze Li',
           description: "PhD student",
