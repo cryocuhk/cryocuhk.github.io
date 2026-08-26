@@ -247,7 +247,7 @@ ninja.data = [{
               window.location.href = "/projects/jiang_guoyan/";
             },},{id: "projects-marcellus-yu-him-leung",
           title: 'Marcellus Yu Him Leung',
-          description: "MPhil student",
+          description: "MPhil student    School of Life Sciences, CUHK",
           section: "Projects",handler: () => {
               window.location.href = "/projects/leung_marcellus/";
             },},{id: "projects-mengze-li",
@@ -267,7 +267,7 @@ ninja.data = [{
               window.location.href = "/projects/ma_joseph/";
             },},{id: "projects-lin-peng",
           title: 'Lin Peng',
-          description: "PhD student",
+          description: "PhD student    University of Exeter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/peng_lin/";
             },},{id: "projects-jiangjun-ran",
