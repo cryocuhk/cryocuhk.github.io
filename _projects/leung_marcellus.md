@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marcellus Yu Him Leung
-description: MPhil student
+description: MPhil student  <br>  School of Life Sciences, CUHK 
 img: assets/img/people/marcellus.jpeg
 importance: 0
 category: Current

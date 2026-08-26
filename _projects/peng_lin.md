@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lin Peng
-description: PhD student 
+description: PhD student  <br>  University of Exeter
 img: assets/img/people/lin_peng.jpeg
 importance: 0
 category: Current
