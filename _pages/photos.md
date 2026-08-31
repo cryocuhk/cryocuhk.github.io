@@ -15,10 +15,10 @@ images:
 ### Tianshan Glacier NO.1, Urmuqi, Xinjiang, 2018
 By Yifan
 
-<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_1.jpg"><img src="/assets/img/field/tianshan_1_glaciers.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_2.jpg"><img src="/assets/img/field/tianshan_2_glaciers.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_3.jpg"><img src="/assets/img/field/tianshan_3_glaciers.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_4.jpg"><img src="/assets/img/field/tianshan_4_yifan.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_1.jpg"><img src="/assets/img/field/tianshan_1.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_2.jpg"><img src="/assets/img/field/tianshan_2.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_3.jpg"><img src="/assets/img/field/tianshan_3.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/tianshan_4.jpg"><img src="/assets/img/field/tianshan_4.jpg" /></a>
 <p> &nbsp; </p>
 
 ### Retrogressive thaw slumps (RTS) in Huashixia and the Qilian Mountains, Qinghai, 2026
