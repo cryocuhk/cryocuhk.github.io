@@ -8,4 +8,4 @@ category: Current
 related_publications: true
 
 ---
-Luming Yang is a PhD student from the department of earth and environment sciences, The Chinese University of Hong Kong.
+Louis is a PhD student from the Department of Earth and Environment Sciences, The Chinese University of Hong Kong. His research primarily focuses on Antarctic vegetation using remote sensing techniques. Louis visited Antarctica during 2026 Antarctic summer as a member of China's 42nd Antarctic Expedition Team.
