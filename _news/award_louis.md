@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Louis won the Best Presentation Award at The 2nd National Symposium of Digital Poles! Congratulations 🎉! 
+Louis won the Best Presentation Award at The 2nd National Symposium of Digital Poles! Congratulations! 
