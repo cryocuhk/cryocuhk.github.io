@@ -13,7 +13,7 @@ Enze’s research focuses on terminus variations of glaciers in Greenland, quant
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/enze_ji.png" title="calving front" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/enze_ji.png" title="calving front" max-width="75%" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,7 @@ Jiangjun is currently investigating the Greenland ice sheet mass balance using t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/Greenland_DMT2.gif" title="Greenland mass balance" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/Greenland_DMT2.gif" title="Greenland mass balance" max-width="75%" %}
     </div>
 </div>
 <div class="caption">
@@ -39,4 +39,3 @@ Jiangjun is currently investigating the Greenland ice sheet mass balance using t
 </div>
 
 <p> &nbsp; </p>
-
